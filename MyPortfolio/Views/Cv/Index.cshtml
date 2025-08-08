@@ -1,0 +1,27 @@
+﻿@model MyPortfolio.Models.CvModel
+
+@{
+    ViewData["Title"] = "My CV";
+}
+
+<h1 class="mb-4 fw-bold">My CV</h1>
+
+@if (Model != null)
+{
+    <div class="mb-4">
+        <a asp-action="Download" asp-route-id="@Model.Id" class="btn btn-primary">Download CV</a>
+    </div>
+
+    <div class="pdf-wrapper">
+        <iframe src="@Url.Action("ViewPdf", new { id = Model.Id })#toolbar=0&navpanes=0&scrollbar=0&zoom=page-width"
+                class="pdf-iframe">
+        </iframe>
+    </div>
+}
+else
+{
+    <div class="alert alert-info">
+        No CV has been uploaded yet.
+        <a asp-action="Upload" class="alert-link">Upload one now</a>.
+    </div>
+}

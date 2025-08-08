@@ -1,0 +1,1652 @@
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.runtime.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.endpoints.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.exe
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.deps.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.runtimeconfig.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.pdb
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Core.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Identity.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Humanizer.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.ClientModel.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.CodeDom.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfo.cs
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cs
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-b9sayid5wm.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zh5axwy674-61n19gt1b8.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b2ddg8hmia-xtxxf3hu2r.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dxhqkn6asf-bqjiyaj88i.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tjwhbv4i9x-c2jlpeoesf.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wxwsahzlj4-erw9l3u2r3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cfdxl8xw2n-aexeepp0ev.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/geo4crnks3-d7shbmvgxk.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0jciilpknt-ausgxo2sd3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f62uevywf0-k8d9w2qqmf.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/c4b9jfmdxt-cosvhxvwiu.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4xwhw1ln3g-ub07r2b239.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q7x1eqzz79-fvhpjtyr6v.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f3rbec86aa-b7pk76d08c.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/gjdyj6geip-fsbi9cje9m.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ufup44vecu-rzd6atqjts.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ywv4va4h2g-ee0r1s7dh0.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/01dkufzxyd-dxx9fxp4il.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zo758u3vkx-jd9uben2k1.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/my3q3mh7j6-khv3u5hwcm.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/41nl8t2p1m-r4e9w2rdcm.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nyydsmfp26-lcd1t2u6c8.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o9avqa0c59-c2oey78nd0.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/32kez2jic9-tdbxkamptv.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/647uzg6v5v-j5mq2jizvt.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/p84m8esuau-06098lyss8.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/buf4bj3i6l-nvvlpmu67g.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ohr789ci0g-s35ty4nyc5.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/86crfygsni-pj5nd1wqec.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/936ajsrvvd-46ein0sx1k.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d95tqipryk-v0zj4ognzu.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rqk0ruhk91-37tfw0ft22.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3ljt3xpd2m-hrwsygsryq.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/54ch3bkf01-pk9g2wxc8p.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hydpmzy6tp-ft3s53vfgj.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2di0zl5l91-6cfz1n2cew.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xbafqb3nou-6pdc2jztkx.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wqc93q6nio-493y06b0oq.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/msf55nrbkl-iovd86k7lj.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qv186njts8-vr1egmr9el.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/5pruxnkfo4-kbrnm935zg.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l0ieq01vr6-jj8uyg4cgr.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b5bpdc6t97-y7v9cxd14o.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0r224jn4i-notf2xhcfb.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ujwltkyriy-h1s4sie4z3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cpmyd5p3fg-63fj8s7r0e.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/m3sm6keznf-0j3bgjxly4.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cp15jbfayf-47otxtyo56.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yjn3zn038f-4v8eqarkd7.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sgnvwzb2kt-356vix0kms.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8mj9bvdun3-83jwlth58m.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/10unug9zp1-mrlpezrjn3.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/r76792o51b-lzl9nlhx6b.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8zangpurwh-ag7o75518u.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l4fcqe2cp6-x0q3zqp4vz.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v1s0m08amh-0i3buxo5is.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iyog8oyyl8-o1o13a6vjx.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8jlk1gtr79-ttgo8qnofa.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wkdzptwd64-2z0ns9nrw6.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9si9lay76-muycvpuwrr.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rbksb5wuk1-87fc7y1x7t.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/jey7v51bw4-mlv21k5csn.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-1krbjet5gn.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-1krbjet5gn.gz
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfo.01A62FBD.Up2Date
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/refint/MyPortfolio.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.pdb
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.genruntimeconfig.cache
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/ref/MyPortfolio.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Newtonsoft.Json.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Common.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Configuration.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Frameworks.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.LibraryModel.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Packaging.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.ProjectModel.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Protocol.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Versioning.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/af/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ar/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/az/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bg/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/da/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/el/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fa/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/he/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hr/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hu/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hy/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/id/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/is/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ku/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/lv/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/mt/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nl/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ro/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sk/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sl/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sv/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uk/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/vi/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/C# Apps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.runtime.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.endpoints.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.exe
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.deps.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.runtimeconfig.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.pdb
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Core.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Identity.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Humanizer.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Mono.TextTemplating.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Newtonsoft.Json.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Common.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Configuration.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Frameworks.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.LibraryModel.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Packaging.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.ProjectModel.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Protocol.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Versioning.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.ClientModel.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.CodeDom.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Convention.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Hosting.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Runtime.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.TypedParts.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Memory.Data.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/af/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ar/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/az/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bg/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/da/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/el/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fa/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/he/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hr/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hu/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hy/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/id/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/is/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ku/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/lv/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/mt/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nl/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ro/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sk/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sl/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sv/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uk/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/vi/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.AssemblyReference.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfoInputs.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfo.cs
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.CoreCompileInputs.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cs
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zh5axwy674-61n19gt1b8.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b2ddg8hmia-xtxxf3hu2r.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cp15jbfayf-47otxtyo56.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yjn3zn038f-4v8eqarkd7.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sgnvwzb2kt-356vix0kms.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8mj9bvdun3-83jwlth58m.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/10unug9zp1-mrlpezrjn3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/r76792o51b-lzl9nlhx6b.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8zangpurwh-ag7o75518u.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l4fcqe2cp6-x0q3zqp4vz.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v1s0m08amh-0i3buxo5is.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iyog8oyyl8-o1o13a6vjx.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8jlk1gtr79-ttgo8qnofa.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wkdzptwd64-2z0ns9nrw6.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9si9lay76-muycvpuwrr.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rbksb5wuk1-87fc7y1x7t.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/jey7v51bw4-mlv21k5csn.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.upToDateCheck.txt
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfo.01A62FBD.Up2Date
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/refint/MyPortfolio.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.pdb
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.genruntimeconfig.cache
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/ref/MyPortfolio.dll
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/6jcb9ixbvm-s9rdjhra2f.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dxhqkn6asf-bqjiyaj88i.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tjwhbv4i9x-c2jlpeoesf.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wxwsahzlj4-erw9l3u2r3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cfdxl8xw2n-aexeepp0ev.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/geo4crnks3-d7shbmvgxk.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0jciilpknt-ausgxo2sd3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f62uevywf0-k8d9w2qqmf.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/c4b9jfmdxt-cosvhxvwiu.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4xwhw1ln3g-ub07r2b239.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q7x1eqzz79-fvhpjtyr6v.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f3rbec86aa-b7pk76d08c.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/gjdyj6geip-fsbi9cje9m.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ufup44vecu-rzd6atqjts.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ywv4va4h2g-ee0r1s7dh0.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/01dkufzxyd-dxx9fxp4il.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zo758u3vkx-jd9uben2k1.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/my3q3mh7j6-khv3u5hwcm.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/41nl8t2p1m-r4e9w2rdcm.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nyydsmfp26-lcd1t2u6c8.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o9avqa0c59-c2oey78nd0.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/32kez2jic9-tdbxkamptv.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/647uzg6v5v-j5mq2jizvt.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/p84m8esuau-06098lyss8.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/buf4bj3i6l-nvvlpmu67g.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ohr789ci0g-zdhe3gh7kv.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/86crfygsni-pj5nd1wqec.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/936ajsrvvd-46ein0sx1k.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d95tqipryk-v0zj4ognzu.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rqk0ruhk91-37tfw0ft22.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3ljt3xpd2m-hrwsygsryq.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/54ch3bkf01-pk9g2wxc8p.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hydpmzy6tp-ft3s53vfgj.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2di0zl5l91-6cfz1n2cew.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xbafqb3nou-6pdc2jztkx.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wqc93q6nio-493y06b0oq.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/msf55nrbkl-iovd86k7lj.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qv186njts8-vr1egmr9el.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/5pruxnkfo4-kbrnm935zg.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l0ieq01vr6-jj8uyg4cgr.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b5bpdc6t97-y7v9cxd14o.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0r224jn4i-notf2xhcfb.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ujwltkyriy-h1s4sie4z3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cpmyd5p3fg-63fj8s7r0e.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/m3sm6keznf-0j3bgjxly4.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/AboutMe.cshtml.rz.scp.css
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Cv/Index.cshtml.rz.scp.css
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-nbk8jdlquj.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/Index.cshtml.rz.scp.css
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-06oz5plfq3.gz
+C:/Users/User/Desktop/CSharpApps/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-06oz5plfq3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.Development.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.runtime.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.endpoints.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.deps.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.runtimeconfig.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.pdb
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Core.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Identity.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Humanizer.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Common.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Configuration.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Frameworks.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.LibraryModel.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Packaging.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.ProjectModel.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Protocol.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Versioning.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.ClientModel.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.CodeDom.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Convention.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Memory.Data.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Text.Json.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/af/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ar/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/az/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bg/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/da/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/el/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fa/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/he/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hr/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hu/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hy/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/id/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/is/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ku/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/lv/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/mt/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nl/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ro/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sk/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sl/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sv/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uk/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/vi/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.AssemblyReference.cache
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfoInputs.cache
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfo.cs
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.CoreCompileInputs.cache
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cs
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cache
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cs
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Cv/Index.cshtml.rz.scp.css
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/AboutMe.cshtml.rz.scp.css
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/6jcb9ixbvm-s9rdjhra2f.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-nbk8jdlquj.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zh5axwy674-61n19gt1b8.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b2ddg8hmia-xtxxf3hu2r.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dxhqkn6asf-bqjiyaj88i.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tjwhbv4i9x-c2jlpeoesf.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wxwsahzlj4-erw9l3u2r3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cfdxl8xw2n-aexeepp0ev.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/geo4crnks3-d7shbmvgxk.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0jciilpknt-ausgxo2sd3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f62uevywf0-k8d9w2qqmf.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/c4b9jfmdxt-cosvhxvwiu.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4xwhw1ln3g-ub07r2b239.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q7x1eqzz79-fvhpjtyr6v.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f3rbec86aa-b7pk76d08c.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/gjdyj6geip-fsbi9cje9m.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ufup44vecu-rzd6atqjts.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ywv4va4h2g-ee0r1s7dh0.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/01dkufzxyd-dxx9fxp4il.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zo758u3vkx-jd9uben2k1.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/my3q3mh7j6-khv3u5hwcm.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/41nl8t2p1m-r4e9w2rdcm.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nyydsmfp26-lcd1t2u6c8.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o9avqa0c59-c2oey78nd0.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/32kez2jic9-tdbxkamptv.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/647uzg6v5v-j5mq2jizvt.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/p84m8esuau-06098lyss8.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/buf4bj3i6l-nvvlpmu67g.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ohr789ci0g-zdhe3gh7kv.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/86crfygsni-pj5nd1wqec.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/936ajsrvvd-46ein0sx1k.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d95tqipryk-v0zj4ognzu.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rqk0ruhk91-37tfw0ft22.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3ljt3xpd2m-hrwsygsryq.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/54ch3bkf01-pk9g2wxc8p.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hydpmzy6tp-ft3s53vfgj.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2di0zl5l91-6cfz1n2cew.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xbafqb3nou-6pdc2jztkx.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wqc93q6nio-493y06b0oq.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/msf55nrbkl-iovd86k7lj.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qv186njts8-vr1egmr9el.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/5pruxnkfo4-kbrnm935zg.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l0ieq01vr6-jj8uyg4cgr.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b5bpdc6t97-y7v9cxd14o.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0r224jn4i-notf2xhcfb.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ujwltkyriy-h1s4sie4z3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cpmyd5p3fg-63fj8s7r0e.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/m3sm6keznf-0j3bgjxly4.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cp15jbfayf-47otxtyo56.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yjn3zn038f-4v8eqarkd7.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sgnvwzb2kt-356vix0kms.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8mj9bvdun3-83jwlth58m.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/10unug9zp1-mrlpezrjn3.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/r76792o51b-lzl9nlhx6b.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8zangpurwh-ag7o75518u.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l4fcqe2cp6-x0q3zqp4vz.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v1s0m08amh-0i3buxo5is.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iyog8oyyl8-o1o13a6vjx.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8jlk1gtr79-ttgo8qnofa.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wkdzptwd64-2z0ns9nrw6.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9si9lay76-muycvpuwrr.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rbksb5wuk1-87fc7y1x7t.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/jey7v51bw4-mlv21k5csn.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-begmskryik.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-begmskryik.gz
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.development.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.build.MyPortfolio.props
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MyPortfolio.props
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MyPortfolio.props
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.pack.json
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfo.01A62FBD.Up2Date
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/refint/MyPortfolio.dll
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.pdb
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.genruntimeconfig.cache
+/Volumes/VMs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/ref/MyPortfolio.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.Development.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.endpoints.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/appsettings.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.runtime.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.deps.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.runtimeconfig.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/MyPortfolio.pdb
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Core.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Azure.Identity.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Humanizer.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.AspNetCore.Razor.Language.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Framework.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Features.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Elfie.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Features.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Razor.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Scripting.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DiaSymReader.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.DotNet.Scaffolding.Shared.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Core.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.NET.StringTools.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/dotnet-aspnet-codegenerator-design.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Mono.TextTemplating.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Common.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Configuration.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.DependencyResolver.Core.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Frameworks.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.LibraryModel.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Packaging.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.ProjectModel.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Protocol.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/NuGet.Versioning.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.ClientModel.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.CodeDom.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Convention.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Hosting.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.Runtime.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Formats.Asn1.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Memory.Data.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Reflection.MetadataLoadContext.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Runtime.Caching.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/System.Text.Json.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/af/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ar/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/az/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bg/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/bn-BD/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/da/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/el/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fa/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fi-FI/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr-BE/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/he/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hr/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hu/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/hy/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/id/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/is/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko-KR/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ku/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/lv/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ms-MY/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/mt/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nb-NO/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/nl/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ro/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sk/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sl/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sr-Latn/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/sv/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/th-TH/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uk/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Cyrl-UZ/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/uz-Latn-UZ/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/vi/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-CN/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Humanizer.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Features.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.AssemblyReference.cache
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.GeneratedMSBuildEditorConfig.editorconfig
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfoInputs.cache
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.AssemblyInfo.cs
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.csproj.CoreCompileInputs.cache
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cs
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.MvcApplicationPartsAssemblyInfo.cache
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cache
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.RazorAssemblyInfo.cs
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/AboutMe.cshtml.rz.scp.css
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ofa40bqe71-b9sayid5wm.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j9swiz3yzq-90yqlj465b.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vltxs1u3vm-xtxxf3hu2r.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/14ipv7q33s-bqjiyaj88i.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rh65p086id-c2jlpeoesf.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/eb27mqwgz2-erw9l3u2r3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9glsckmvxo-aexeepp0ev.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hh8ihyobdx-d7shbmvgxk.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bww8ud00yd-ausgxo2sd3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/edcrak57d7-k8d9w2qqmf.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sf8kf2lula-cosvhxvwiu.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3tzsqhslk9-ub07r2b239.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/oxk5o6czdw-fvhpjtyr6v.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/k8b25g0zwc-b7pk76d08c.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8axix7wldr-fsbi9cje9m.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d5z9sfpxbi-rzd6atqjts.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/u8428c4e9i-ee0r1s7dh0.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tg53r17ghy-dxx9fxp4il.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nlrl0f3xs3-jd9uben2k1.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/1fc4q00scq-khv3u5hwcm.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8xykfy6qmd-r4e9w2rdcm.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vsrbd71spn-lcd1t2u6c8.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cynp17w084-c2oey78nd0.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/7o8oyvng68-tdbxkamptv.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9vwtoirpy-j5mq2jizvt.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o5k23vqhrk-06098lyss8.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iznc766avz-nvvlpmu67g.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ns4583i71s-s35ty4nyc5.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/47012z8l2l-pj5nd1wqec.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4vzefxwp2m-46ein0sx1k.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/bh4v3mdph9-v0zj4ognzu.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l186vlgaag-37tfw0ft22.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rsc7qacj1u-hrwsygsryq.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z408qb6q7a-pk9g2wxc8p.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qfr28sqcy1-ft3s53vfgj.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0k1i85ntyh-6cfz1n2cew.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xa379ftczi-6pdc2jztkx.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/lr5hmrr0j7-493y06b0oq.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ivy2s9gwh5-iovd86k7lj.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/higufxz8op-vr1egmr9el.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/s3tglgz8hr-kbrnm935zg.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/vw9sls9bhj-jj8uyg4cgr.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ym8tkpcl2i-y7v9cxd14o.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zzna4nrm5w-notf2xhcfb.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/igscs4x0yk-h1s4sie4z3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zap00c0tb5-63fj8s7r0e.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/pogzkicjpz-0j3bgjxly4.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/j3hwsq15kh-47otxtyo56.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q3naettu8c-4v8eqarkd7.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ldxy2n3w6q-356vix0kms.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ypthv7q62w-83jwlth58m.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t6e3b82hrf-mrlpezrjn3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/uocis9wxbx-lzl9nlhx6b.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2tikzqlmtu-ag7o75518u.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/9muusbdg0a-x0q3zqp4vz.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tpsq5dibur-0i3buxo5is.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/t0qo7o574p-o1o13a6vjx.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b9lhb08218-ttgo8qnofa.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/a3ygkwa5zy-2z0ns9nrw6.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zh5axwy674-61n19gt1b8.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b2ddg8hmia-xtxxf3hu2r.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dxhqkn6asf-bqjiyaj88i.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/tjwhbv4i9x-c2jlpeoesf.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wxwsahzlj4-erw9l3u2r3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cfdxl8xw2n-aexeepp0ev.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/geo4crnks3-d7shbmvgxk.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/0jciilpknt-ausgxo2sd3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f62uevywf0-k8d9w2qqmf.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/c4b9jfmdxt-cosvhxvwiu.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/4xwhw1ln3g-ub07r2b239.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/q7x1eqzz79-fvhpjtyr6v.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/f3rbec86aa-b7pk76d08c.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/gjdyj6geip-fsbi9cje9m.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ufup44vecu-rzd6atqjts.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ywv4va4h2g-ee0r1s7dh0.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/01dkufzxyd-dxx9fxp4il.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/zo758u3vkx-jd9uben2k1.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/my3q3mh7j6-khv3u5hwcm.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/41nl8t2p1m-r4e9w2rdcm.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/nyydsmfp26-lcd1t2u6c8.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/o9avqa0c59-c2oey78nd0.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/32kez2jic9-tdbxkamptv.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/647uzg6v5v-j5mq2jizvt.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/p84m8esuau-06098lyss8.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/buf4bj3i6l-nvvlpmu67g.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ohr789ci0g-zdhe3gh7kv.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/86crfygsni-pj5nd1wqec.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/936ajsrvvd-46ein0sx1k.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/d95tqipryk-v0zj4ognzu.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rqk0ruhk91-37tfw0ft22.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/3ljt3xpd2m-hrwsygsryq.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/54ch3bkf01-pk9g2wxc8p.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/hydpmzy6tp-ft3s53vfgj.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/2di0zl5l91-6cfz1n2cew.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/xbafqb3nou-6pdc2jztkx.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wqc93q6nio-493y06b0oq.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/msf55nrbkl-iovd86k7lj.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/qv186njts8-vr1egmr9el.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/5pruxnkfo4-kbrnm935zg.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l0ieq01vr6-jj8uyg4cgr.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/b5bpdc6t97-y7v9cxd14o.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v0r224jn4i-notf2xhcfb.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/ujwltkyriy-h1s4sie4z3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cpmyd5p3fg-63fj8s7r0e.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/m3sm6keznf-0j3bgjxly4.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/cp15jbfayf-47otxtyo56.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/yjn3zn038f-4v8eqarkd7.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/sgnvwzb2kt-356vix0kms.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8mj9bvdun3-83jwlth58m.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/10unug9zp1-mrlpezrjn3.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/r76792o51b-lzl9nlhx6b.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8zangpurwh-ag7o75518u.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/l4fcqe2cp6-x0q3zqp4vz.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/v1s0m08amh-0i3buxo5is.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/iyog8oyyl8-o1o13a6vjx.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/8jlk1gtr79-ttgo8qnofa.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wkdzptwd64-2z0ns9nrw6.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/h9si9lay76-muycvpuwrr.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/rbksb5wuk1-87fc7y1x7t.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/jey7v51bw4-mlv21k5csn.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.development.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.build.MyPortfolio.props
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MyPortfolio.props
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MyPortfolio.props
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfo.01A62FBD.Up2Date
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/refint/MyPortfolio.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.pdb
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/MyPortfolio.genruntimeconfig.cache
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/ref/MyPortfolio.dll
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/package-lock.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/bin/Debug/net9.0/package.json
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Cv/Index.cshtml.rz.scp.css
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-y2p8w5r7yp.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/Index.cshtml.rz.scp.css
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-mwikge784p.gz
+/Users/idir/CsharpProjecs/MyPortfolio/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-mwikge784p.gz

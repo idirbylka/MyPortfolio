@@ -1,0 +1,62 @@
+﻿@model MyPortfolio.Models.Project
+
+@{
+    ViewData["Title"] = Model.Title;
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-lg-8 offset-lg-2">
+            <h1 class="display-4 mb-4">@Model.Title</h1>
+
+            <div class="mb-4">
+                @if (Model.ScreenShots != null && Model.ScreenShots.Any())
+                {
+                    <div id="screenshotCarousel" class="carousel slide" data-bs-ride="carousel">
+                        <div class="carousel-inner">
+                            @foreach (var (screenshot, index) in Model.ScreenShots.Select((value, i) => (value, i)))
+                            {
+                                <div class="carousel-item @(index == 0 ? "active" : "")">
+                                    <img src="@Url.Action("GetScreenshot", "Projects", new { id = screenshot.Id })" class="d-block w-100" alt="Screenshot @(index + 1)">
+                                </div>
+                            }
+                        </div>
+                        <button class="carousel-control-prev" type="button" data-bs-target="#screenshotCarousel" data-bs-slide="prev">
+                            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Previous</span>
+                        </button>
+                        <button class="carousel-control-next" type="button" data-bs-target="#screenshotCarousel" data-bs-slide="next">
+                            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                            <span class="visually-hidden">Next</span>
+                        </button>
+                    </div>
+                }
+            </div>
+
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Project Description</h5>
+                    <p class="card-text">@Model.Description</p>
+                </div>
+            </div>
+
+            <div class="card mb-4">
+                <div class="card-body">
+                    <h5 class="card-title">Technologies Used</h5>
+                    <p class="card-text">@Model.Technologies</p>
+                </div>
+            </div>
+
+            <div class="d-flex justify-content-start">
+                @if (!string.IsNullOrEmpty(Model.LiveUrl))
+                {
+                    <a href="@Model.LiveUrl" class="btn btn-primary me-2" target="_blank">View Live Site</a>
+                }
+                @if (!string.IsNullOrEmpty(Model.RepoUrl))
+                {
+                    <a href="@Model.RepoUrl" class="btn btn-secondary" target="_blank">View on GitHub</a>
+                }
+            </div>
+        </div>
+    </div>
+</div>
