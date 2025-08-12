@@ -1,0 +1,183 @@
+.homepage-starter {
+    margin-top: 180px;
+}
+
+
+h1 {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.available-for-hire {
+    color: #34d298;
+    background-color: #34d2983a;
+    font-size: 1rem;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.intro-text {
+    font-size: 1.2rem;
+    margin-top: 70px;
+    color: #848386;
+    margin-bottom: 40px;
+}
+
+.computer-background-widget {
+    background-image: url('/images/hands-computer.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 340px;
+    border-radius: 20px;
+    padding: 15px;
+    position: relative;
+}
+
+.my-name-widget {
+    color: #000;
+    /* background-color: #ffffff; */
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.photo-id {
+    background-image: url('/images/photo-id.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 340px;
+    border-radius: 20px;
+    padding: 15px;
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+}
+
+.tech-stack-widget {
+    background-color: #adaffa;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+}
+
+.mission-statement {
+    color: #fff;
+    background-color: #159eb3;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 120px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+
+    p {
+        font-size: 1.2rem;
+        color: #fff;
+    }
+}
+
+.current-work-widget {
+    margin-top: 100px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+
+    p {
+        font-size: 1.2rem;
+        color: #333;
+    }
+}
+
+
+.contact-form {
+    background-color: #cbcbfb;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 100px;
+
+    h2 {
+        color: #333;
+    }
+
+    .form-label {
+        font-weight: bold;
+    }
+
+    input,
+    textarea {
+        border-radius: 20px !important;
+    }
+
+}
+
+.form-control {
+    border-radius: 20px;
+}
+
+
+.hero-title {
+    font-size: 3rem;
+    line-height: 1.1;
+}
+
+.location-text {
+    color: #848386;
+    margin-bottom: 0;
+}
+
+.widget-box {
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+}
+
+@media (max-width: 1200px) {
+    .hero-title { font-size: 2.6rem; }
+}
+
+@media (max-width: 992px) {
+    .homepage-starter { margin-top: 120px; }
+    .computer-background-widget,
+    .photo-id { height: 300px; }
+    .intro-text { margin-top: 30px; font-size: 1.05rem; }
+    .mission-statement { margin-top: 80px; }
+}
+
+@media (max-width: 768px) {
+    .hero-title { font-size: 2.2rem; }
+    .computer-background-widget,
+    .photo-id { height: 500px; }
+    .tech-stack-widget { padding: 12px; }
+    .projects-container h2 { font-size: 1.9rem; }
+}
+
+@media (max-width: 576px) {
+    .homepage-starter { margin-top: 90px; }
+    .hero-title { font-size: 1.9rem; }
+    .intro-text { font-size: 0.95rem; }
+    .mission-statement p { font-size: 1rem; }
+    .project-card { border-radius: 18px; }
+    .project-image { aspect-ratio: 4 / 3; }
+    .contact-form { padding: 22px; }
+    .contact-form h2 { font-size: 1.6rem; }
+    .see-inside-btn { padding: 8px 14px; font-size: 13px; }
+}
+
+/* Utility refinements */
+.project-card h5,
+.project-card h3 {
+    font-weight: 600;
+    line-height: 1.25;
+    word-break: break-word;
+}
+
+.project-card p {
+    overflow-wrap: anywhere;
+}
+
+.social-link svg { width: 48px; height: 48px; }
+@media (min-width: 992px) {
+    .social-link svg { width: 56px; height: 56px; }
+}
+
+

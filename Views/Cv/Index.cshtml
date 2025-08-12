@@ -1,0 +1,45 @@
+﻿@model MyPortfolio.Models.CvModel
+@{
+    ViewData["Title"] = "My CV";
+}
+
+<div class="cv-page">
+@if (Model != null)
+{
+    <div class="cv-header mb-5">
+        <div>
+            <h1 class="fw-bold mb-1">Curriculum Vitae</h1>
+        </div>
+        <div class="ms-auto">
+            <a asp-action="Download" asp-route-id="@Model.Id" class="contact btn">Download PDF</a>
+            @* <a asp-action="Upload" class="contact btn">Upload New</a> *@
+        </div>
+    </div>
+
+    <div class="cv-viewer">
+        <div id="cvLoading" class="cv-loading">Loading CV…</div>
+        <iframe
+            src="@Url.Action("ViewPdf", new { id = Model.Id })#toolbar=0&navpanes=0&scrollbar=0&zoom=page-width"
+            class="pdf-iframe"
+            onload="document.getElementById('cvLoading').style.display='none'">
+        </iframe>
+    </div>
+}
+else
+{
+    <div class="alert alert-info mb-0">
+        No CV uploaded yet.
+        <a asp-action="Upload" class="alert-link">Upload one now</a>.
+    </div>
+}
+</div>
+
+@section Scripts {
+<script>
+    // Optional: fallback hide loader after 8s
+    setTimeout(()=> {
+        const l=document.getElementById('cvLoading');
+        if(l) l.style.display='none';
+    }, 8000);
+</script>
+}

@@ -1,0 +1,10 @@
+.screenshotCarousel {
+  position: relative;
+  width: 100%;
+  border-radius: 20%;
+}
+
+.carousel-item img {
+  width: 100%;
+  max-height: 516px;
+}

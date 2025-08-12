@@ -1,0 +1,183 @@
+.homepage-starter[b-kknu4vf9t9] {
+    margin-top: 180px;
+}
+
+
+h1[b-kknu4vf9t9] {
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.available-for-hire[b-kknu4vf9t9] {
+    color: #34d298;
+    background-color: #34d2983a;
+    font-size: 1rem;
+    border-radius: 20px;
+    text-align: center;
+    padding: 5px 10px;
+    font-weight: bold;
+}
+
+.intro-text[b-kknu4vf9t9] {
+    font-size: 1.2rem;
+    margin-top: 70px;
+    color: #848386;
+    margin-bottom: 40px;
+}
+
+.computer-background-widget[b-kknu4vf9t9] {
+    background-image: url('/images/hands-computer.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 340px;
+    border-radius: 20px;
+    padding: 15px;
+    position: relative;
+}
+
+.my-name-widget[b-kknu4vf9t9] {
+    color: #000;
+    /* background-color: #ffffff; */
+    font-size: 2rem;
+    text-align: center;
+    font-weight: bold;
+
+}
+
+.photo-id[b-kknu4vf9t9] {
+    background-image: url('/images/photo-id.jpg');
+    background-position: center;
+    background-size: cover;
+    height: 340px;
+    border-radius: 20px;
+    padding: 15px;
+    position: relative;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+}
+
+.tech-stack-widget[b-kknu4vf9t9] {
+    background-color: #adaffa;
+    border-radius: 20px;
+    padding: 15px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+}
+
+.mission-statement[b-kknu4vf9t9] {
+    color: #fff;
+    background-color: #159eb3;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 120px;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+
+    p {
+        font-size: 1.2rem;
+        color: #fff;
+    }
+}
+
+.current-work-widget[b-kknu4vf9t9] {
+    margin-top: 100px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #f8f9fa;
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+
+    p {
+        font-size: 1.2rem;
+        color: #333;
+    }
+}
+
+
+.contact-form[b-kknu4vf9t9] {
+    background-color: #cbcbfb;
+    border-radius: 20px;
+    padding: 30px;
+    margin-top: 100px;
+
+    h2 {
+        color: #333;
+    }
+
+    .form-label[b-kknu4vf9t9] {
+        font-weight: bold;
+    }
+
+    input[b-kknu4vf9t9],
+    textarea[b-kknu4vf9t9] {
+        border-radius: 20px !important;
+    }
+
+}
+
+.form-control[b-kknu4vf9t9] {
+    border-radius: 20px;
+}
+
+
+.hero-title[b-kknu4vf9t9] {
+    font-size: 3rem;
+    line-height: 1.1;
+}
+
+.location-text[b-kknu4vf9t9] {
+    color: #848386;
+    margin-bottom: 0;
+}
+
+.widget-box[b-kknu4vf9t9] {
+    box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+}
+
+@media (max-width: 1200px) {
+    .hero-title[b-kknu4vf9t9] { font-size: 2.6rem; }
+}
+
+@media (max-width: 992px) {
+    .homepage-starter[b-kknu4vf9t9] { margin-top: 120px; }
+    .computer-background-widget[b-kknu4vf9t9],
+    .photo-id[b-kknu4vf9t9] { height: 300px; }
+    .intro-text[b-kknu4vf9t9] { margin-top: 30px; font-size: 1.05rem; }
+    .mission-statement[b-kknu4vf9t9] { margin-top: 80px; }
+}
+
+@media (max-width: 768px) {
+    .hero-title[b-kknu4vf9t9] { font-size: 2.2rem; }
+    .computer-background-widget[b-kknu4vf9t9],
+    .photo-id[b-kknu4vf9t9] { height: 500px; }
+    .tech-stack-widget[b-kknu4vf9t9] { padding: 12px; }
+    .projects-container h2[b-kknu4vf9t9] { font-size: 1.9rem; }
+}
+
+@media (max-width: 576px) {
+    .homepage-starter[b-kknu4vf9t9] { margin-top: 90px; }
+    .hero-title[b-kknu4vf9t9] { font-size: 1.9rem; }
+    .intro-text[b-kknu4vf9t9] { font-size: 0.95rem; }
+    .mission-statement p[b-kknu4vf9t9] { font-size: 1rem; }
+    .project-card[b-kknu4vf9t9] { border-radius: 18px; }
+    .project-image[b-kknu4vf9t9] { aspect-ratio: 4 / 3; }
+    .contact-form[b-kknu4vf9t9] { padding: 22px; }
+    .contact-form h2[b-kknu4vf9t9] { font-size: 1.6rem; }
+    .see-inside-btn[b-kknu4vf9t9] { padding: 8px 14px; font-size: 13px; }
+}
+
+/* Utility refinements */
+.project-card h5[b-kknu4vf9t9],
+.project-card h3[b-kknu4vf9t9] {
+    font-weight: 600;
+    line-height: 1.25;
+    word-break: break-word;
+}
+
+.project-card p[b-kknu4vf9t9] {
+    overflow-wrap: anywhere;
+}
+
+.social-link svg[b-kknu4vf9t9] { width: 48px; height: 48px; }
+@media (min-width: 992px) {
+    .social-link svg[b-kknu4vf9t9] { width: 56px; height: 56px; }
+}
+
+
