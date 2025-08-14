@@ -422,8 +422,6 @@
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/appsettings.Development.json
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/appsettings.json
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.endpoints.json
-/Users/idir/test/MyPortfolio/bin/Debug/net9.0/package-lock.json
-/Users/idir/test/MyPortfolio/bin/Debug/net9.0/package.json
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/MyPortfolio.staticwebassets.runtime.json
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/MyPortfolio
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/MyPortfolio.deps.json
