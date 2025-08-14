@@ -41,56 +41,68 @@ namespace MyPortfolio.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> SendMessage(ContactFormModel model)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> SendMessage([Bind(Prefix = "ContactForm")] ContactFormModel model)
         {
             if (!ModelState.IsValid)
             {
-                // Create the full view model when validation fails
-                var projects = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
-                var vm = new HomeIndexViewModel()
-                {
-                    ContactForm = model, // Use the submitted model to preserve user input
-                    Projects = projects
-                };
-                return View("Index", vm);
+                var projectsInvalid = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
+                var vmInvalid = new HomeIndexViewModel { ContactForm = model, Projects = projectsInvalid };
+                return View("Index", vmInvalid);
+            }
+
+            // Read SMTP settings from environment (Render dashboard -> Environment)
+            var smtpUser = Environment.GetEnvironmentVariable("SMTP_USER");
+            var smtpPass = Environment.GetEnvironmentVariable("SMTP_PASS");
+            var smtpHost = Environment.GetEnvironmentVariable("SMTP_HOST") ?? "smtp.gmail.com";
+            var smtpPort = int.TryParse(Environment.GetEnvironmentVariable("SMTP_PORT"), out var port) ? port : 587;
+            var toEmail  = Environment.GetEnvironmentVariable("CONTACT_TO") ?? "idir.bylka@yahoo.co.uk";
+
+            // Guard: make sure required env vars exist in Render
+            if (string.IsNullOrWhiteSpace(smtpUser) || string.IsNullOrWhiteSpace(smtpPass))
+            {
+                ModelState.AddModelError("", "Email service is not configured. Please try again later.");
+                _logger.LogError("Missing SMTP credentials in environment variables.");
+                var projectsMissing = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
+                var vmMissing = new HomeIndexViewModel { ContactForm = model, Projects = projectsMissing };
+                return View("Index", vmMissing);
             }
 
             try
             {
-                var smtpUser = Environment.GetEnvironmentVariable("SMTP_USER");
-                var smtpPass = Environment.GetEnvironmentVariable("SMTP_PASS");
-                var smtpHost = Environment.GetEnvironmentVariable("SMTP_HOST") ?? "smtp.gmail.com";
-                var smtpPort = int.TryParse(Environment.GetEnvironmentVariable("SMTP_PORT"), out var p) ? p : 587;
-
-                var message = new MailMessage();
-                message.From = new MailAddress(smtpUser);
-                message.To.Add("idir.bylka@yahoo.co.uk");
-                message.Subject = $"New Contact Message from {model.Name}";
-                message.Body = $"Name: {model.Name}\nEmail: {model.Email}\n\nMessage:\n{model.Message}";
-                message.IsBodyHtml = false;
-
-                using (var smtp = new SmtpClient(smtpHost, smtpPort))
+                using var message = new MailMessage
                 {
-                    smtp.Credentials = new NetworkCredential(smtpUser, smtpPass);
-                    smtp.EnableSsl = true;
-                    await smtp.SendMailAsync(message);
-                }
-                
+                    From = new MailAddress(smtpUser),
+                    Subject = $"New Contact Message from {model.Name}",
+                    Body = $"Name: {model.Name}\nEmail: {model.Email}\n\nMessage:\n{model.Message}",
+                    IsBodyHtml = false
+                };
+                message.To.Add(toEmail);
+                // Optional: add Reply-To so you can reply directly to the sender
+                if (!string.IsNullOrWhiteSpace(model.Email))
+                    message.ReplyToList.Add(new MailAddress(model.Email, model.Name ?? model.Email));
+
+                using var smtp = new SmtpClient(smtpHost, smtpPort)
+                {
+                    Credentials = new NetworkCredential(smtpUser, smtpPass),
+                    EnableSsl = true,
+                    DeliveryMethod = SmtpDeliveryMethod.Network,
+                    UseDefaultCredentials = false,
+                    Timeout = 10000
+                };
+
+                await smtp.SendMailAsync(message);
+
                 TempData["Success"] = "Your message has been sent!";
                 return RedirectToAction("Index");
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Error sending email");
+                _logger.LogError(ex, "Error sending email via SMTP host {Host}:{Port}", smtpHost, smtpPort);
                 ModelState.AddModelError("", "Failed to send email. Please try again later.");
-                
-                // Create the full view model when there's an exception
+
                 var projects = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
-                var vm = new HomeIndexViewModel()
-                {
-                    ContactForm = model, // Use the submitted model to preserve user input
-                    Projects = projects
-                };
+                var vm = new HomeIndexViewModel { ContactForm = model, Projects = projects };
                 return View("Index", vm);
             }
         }
