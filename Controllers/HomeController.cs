@@ -44,11 +44,19 @@ namespace MyPortfolio.Controllers
         public async Task<IActionResult> SendMessage(ContactFormModel model)
         {
             if (!ModelState.IsValid)
-                return View("Index", model);
+            {
+                // Create the full view model when validation fails
+                var projects = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
+                var vm = new HomeIndexViewModel()
+                {
+                    ContactForm = model, // Use the submitted model to preserve user input
+                    Projects = projects
+                };
+                return View("Index", vm);
+            }
 
             try
             {
-
                 var smtpUser = Environment.GetEnvironmentVariable("SMTP_USER");
                 var smtpPass = Environment.GetEnvironmentVariable("SMTP_PASS");
                 var smtpHost = Environment.GetEnvironmentVariable("SMTP_HOST") ?? "smtp.gmail.com";
@@ -75,7 +83,15 @@ namespace MyPortfolio.Controllers
             {
                 _logger.LogError(ex, "Error sending email");
                 ModelState.AddModelError("", "Failed to send email. Please try again later.");
-                return View("Index", model);
+                
+                // Create the full view model when there's an exception
+                var projects = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
+                var vm = new HomeIndexViewModel()
+                {
+                    ContactForm = model, // Use the submitted model to preserve user input
+                    Projects = projects
+                };
+                return View("Index", vm);
             }
         }
 
