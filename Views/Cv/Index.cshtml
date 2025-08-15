@@ -32,65 +32,79 @@ else
 </div>
 
 @section Scripts {
-<!-- Load pdf.js from CDN -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <script>
-  (async function () {
-    const host   = document.getElementById('cvCanvasHost');
-    const loader = document.getElementById('cvLoading');
-    const url    = '@Url.Action("ViewPdf", new { id = Model.Id })';
+(async function () {
+  const host   = document.getElementById('cvCanvasHost');
+  const loader = document.getElementById('cvLoading');
+  const url    = '@Url.Action("ViewPdf", new { id = Model.Id })';
 
-    // Point worker to the same version on CDN (avoids 404s from /lib/pdfjs/*)
-    if (window.pdfjsLib) {
-      pdfjsLib.GlobalWorkerOptions.workerSrc =
-        "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+  // Use the CDN worker
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
+
+  // Tuning knobs
+  const MAX_DPR = 3;                               // cap DPR to avoid memory spikes
+  const DPR = Math.min(MAX_DPR, window.devicePixelRatio || 1);
+  const QUALITY_BOOST = 1.15;                       // slight extra scale for readability
+
+  function innerWidth(el){
+    const cs = getComputedStyle(el);
+    return el.clientWidth - parseFloat(cs.paddingLeft) - parseFloat(cs.paddingRight);
+  }
+
+  async function renderPdf(pdf) {
+    host.innerHTML = "";
+    const inner = Math.max(1, innerWidth(host));
+
+    for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+      const page = await pdf.getPage(pageNum);
+
+      // Base "fit to width" scale in CSS pixels
+      const unscaled = page.getViewport({ scale: 1 });
+      const cssScale = (inner / unscaled.width) * QUALITY_BOOST;
+      const cssViewport = page.getViewport({ scale: cssScale });
+
+      // Canvas element sized in **CSS pixels**
+      const canvas = document.createElement('canvas');
+      canvas.style.width  = Math.round(cssViewport.width)  + 'px';
+      canvas.style.height = Math.round(cssViewport.height) + 'px';
+      canvas.style.display = 'block';
+      canvas.style.margin  = '0 auto 16px';
+      canvas.style.background = '#fff';
+
+      // Backing store sized in **device pixels** for crispness
+      canvas.width  = Math.round(cssViewport.width  * DPR);
+      canvas.height = Math.round(cssViewport.height * DPR);
+
+      const ctx = canvas.getContext('2d', { alpha: false });
+      // Render with DPR transform (so pixels map 1:1 on retina)
+      await page.render({
+        canvasContext: ctx,
+        viewport: cssViewport,
+        transform: [DPR, 0, 0, DPR, 0, 0]
+      }).promise;
+
+      host.appendChild(canvas);
     }
+  }
 
-    // Helper to render (called on load + resize)
-    async function renderPdf(pdf) {
-      host.innerHTML = "";
-      for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-        const page = await pdf.getPage(pageNum);
-        const viewport = page.getViewport({ scale: 1 });
-        const scale = host.clientWidth / viewport.width;     // fit to width
-        const vp = page.getViewport({ scale });
+  try {
+    const pdf = await pdfjsLib.getDocument({ url }).promise;
+    await renderPdf(pdf);
+    if (loader) loader.style.display = 'none';
 
-        const canvas = document.createElement('canvas');
-        const ctx = canvas.getContext('2d', { alpha: false });
-        canvas.width = Math.floor(vp.width);
-        canvas.height = Math.floor(vp.height);
-        canvas.style.background = '#fff';
-        canvas.style.display = 'block';
-        canvas.style.margin = '0 auto 16px';
-
-        await page.render({ canvasContext: ctx, viewport: vp }).promise;
-        host.appendChild(canvas);
-      }
-    }
-
-    try {
-      if (!window.pdfjsLib) throw new Error("pdfjsLib failed to load");
-      const loadingTask = pdfjsLib.getDocument({ url });
-      const pdf = await loadingTask.promise;
-
-      await renderPdf(pdf);
-      if (loader) loader.style.display = 'none';
-
-      // Re-render on resize (debounced)
-      let tid;
-      window.addEventListener('resize', () => {
-        clearTimeout(tid);
-        tid = setTimeout(() => renderPdf(pdf), 150);
-      });
-    } catch (err) {
-      console.error("PDF render failed:", err);
-      // Show a friendly fallback with a direct link
-      if (loader) {
-        loader.innerHTML = `
-          Could not display the CV here.
-          <a class="contact btn ms-2" href="${url}" target="_blank" rel="noopener">Open PDF</a>`;
-      }
-    }
-  })();
+    // Re-render on resize (debounced)
+    let t;
+    window.addEventListener('resize', () => {
+      clearTimeout(t);
+      t = setTimeout(() => renderPdf(pdf), 150);
+    });
+  } catch (err) {
+    console.error('PDF render failed:', err);
+    if (loader) loader.innerHTML =
+      `Could not display the CV. <a class="contact btn ms-2" href="${url}" target="_blank" rel="noopener">Open PDF</a>`;
+  }
+})();
 </script>
 }
