@@ -39,14 +39,12 @@ else
   const loader = document.getElementById('cvLoading');
   const url    = '@Url.Action("ViewPdf", new { id = Model.Id })';
 
-  // Use the CDN worker
   pdfjsLib.GlobalWorkerOptions.workerSrc =
     "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js";
 
-  // Tuning knobs
-  const MAX_DPR = 3;                               // cap DPR to avoid memory spikes
+  const MAX_DPR = 3;
   const DPR = Math.min(MAX_DPR, window.devicePixelRatio || 1);
-  const QUALITY_BOOST = 1.15;                       // slight extra scale for readability
+  const QUALITY_BOOST = 1.15;   // 🔧 applies to render pixels only
 
   function innerWidth(el){
     const cs = getComputedStyle(el);
@@ -55,34 +53,40 @@ else
 
   async function renderPdf(pdf) {
     host.innerHTML = "";
-    const inner = Math.max(1, innerWidth(host));
+
+    // clamp CSS width to fit container exactly (minus a tiny epsilon)
+    const cssTargetWidth = Math.max(1, Math.floor(innerWidth(host) - 0.5));
 
     for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
       const page = await pdf.getPage(pageNum);
 
-      // Base "fit to width" scale in CSS pixels
+      // CSS scale fits the page to the host width EXACTLY
       const unscaled = page.getViewport({ scale: 1 });
-      const cssScale = (inner / unscaled.width) * QUALITY_BOOST;
+      const cssScale = cssTargetWidth / unscaled.width;
       const cssViewport = page.getViewport({ scale: cssScale });
 
-      // Canvas element sized in **CSS pixels**
+      // Canvas element sized in CSS pixels (fits container)
+      const cssW = Math.round(cssViewport.width);
+      const cssH = Math.round(cssViewport.height);
+
       const canvas = document.createElement('canvas');
-      canvas.style.width  = Math.round(cssViewport.width)  + 'px';
-      canvas.style.height = Math.round(cssViewport.height) + 'px';
       canvas.style.display = 'block';
       canvas.style.margin  = '0 auto 16px';
       canvas.style.background = '#fff';
+      canvas.style.width  = cssW + 'px';   // ✅ exact CSS width
+      canvas.style.height = cssH + 'px';
 
-      // Backing store sized in **device pixels** for crispness
-      canvas.width  = Math.round(cssViewport.width  * DPR);
-      canvas.height = Math.round(cssViewport.height * DPR);
+      // Backing store in device pixels with quality boost
+      const renderScale = DPR * QUALITY_BOOST;               // ✅ boost only here
+      canvas.width  = Math.round(cssViewport.width  * renderScale);
+      canvas.height = Math.round(cssViewport.height * renderScale);
 
       const ctx = canvas.getContext('2d', { alpha: false });
-      // Render with DPR transform (so pixels map 1:1 on retina)
+
       await page.render({
         canvasContext: ctx,
-        viewport: cssViewport,
-        transform: [DPR, 0, 0, DPR, 0, 0]
+        viewport: cssViewport,               // layout viewport (fits width)
+        transform: [renderScale, 0, 0, renderScale, 0, 0]  // hi-dpi pixels
       }).promise;
 
       host.appendChild(canvas);
@@ -94,7 +98,6 @@ else
     await renderPdf(pdf);
     if (loader) loader.style.display = 'none';
 
-    // Re-render on resize (debounced)
     let t;
     window.addEventListener('resize', () => {
       clearTimeout(t);
