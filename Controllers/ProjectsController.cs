@@ -7,7 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
-using Ganss.XSS;
+using Ganss.Xss;
 
 namespace MyPortfolio.Controllers
 {

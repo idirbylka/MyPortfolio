@@ -821,8 +821,6 @@
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/h9si9lay76-muycvpuwrr.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/rbksb5wuk1-87fc7y1x7t.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/jey7v51bw4-jfsiqqwiad.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-n5h5oj8its.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-n5h5oj8its.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.json
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/staticwebassets.development.json
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -838,3 +836,8 @@
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/MyPortfolio.pdb
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/MyPortfolio.genruntimeconfig.cache
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/ref/MyPortfolio.dll
+/Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.dll
+/Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.Css.dll
+/Users/idir/test/MyPortfolio/bin/Debug/net9.0/HtmlSanitizer.dll
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-n9020qyurx.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-n9020qyurx.gz
