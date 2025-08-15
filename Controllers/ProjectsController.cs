@@ -7,6 +7,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
+using Ganss.XSS;
 
 namespace MyPortfolio.Controllers
 {
@@ -44,36 +45,43 @@ namespace MyPortfolio.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddProjects(Project obj, List<IFormFile> screenShots)
         {
-            if (ModelState.IsValid)
+            if (!ModelState.IsValid)
+                return View(obj);
+
+            // Sanitize the two HTML fields (allow only basic formatting + lists)
+            var sanitizer = new HtmlSanitizer();
+            sanitizer.AllowedTags.Clear();
+            sanitizer.AllowedTags.UnionWith(new[] { "p", "br", "ul", "ol", "li", "strong", "b", "em", "i", "u", "a" });
+            sanitizer.AllowedAttributes.Clear();
+            sanitizer.AllowedAttributes.UnionWith(new[] { "href", "target" });
+
+            obj.Description  = sanitizer.Sanitize(obj.Description ?? string.Empty);
+            obj.Technologies = sanitizer.Sanitize(obj.Technologies ?? string.Empty);
+
+            if (screenShots != null && screenShots.Count > 0)
             {
-                if (screenShots != null && screenShots.Count > 0)
+                foreach (var file in screenShots)
                 {
-                    foreach (var file in screenShots)
+                    if (file.Length > 0)
                     {
-                        if (file.Length > 0)
+                        using var memoryStream = new MemoryStream();
+                        await file.CopyToAsync(memoryStream);
+                        obj.ScreenShots.Add(new Screenshot
                         {
-                            using (var memoryStream = new MemoryStream())
-                            {
-                                await file.CopyToAsync(memoryStream);
-                                var screenshot = new Screenshot
-                                {
-                                    FileName = Path.GetFileName(file.FileName),
-                                    ContentType = file.ContentType,
-                                    FileContent = memoryStream.ToArray(),
-                                    Project = obj
-                                };
-                                obj.ScreenShots.Add(screenshot);
-                            }
-                        }
+                            FileName = Path.GetFileName(file.FileName),
+                            ContentType = file.ContentType,
+                            FileContent = memoryStream.ToArray(),
+                            Project = obj
+                        });
                     }
                 }
-
-                _db.Projects.Add(obj);
-                await _db.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
             }
-            return View(obj);
+
+            _db.Projects.Add(obj);
+            await _db.SaveChangesAsync();
+            return RedirectToAction(nameof(Index));
         }
+
 
         public async Task<IActionResult> GetScreenshot(int id)
         {
