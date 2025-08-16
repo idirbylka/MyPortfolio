@@ -114,7 +114,7 @@
                                 <div class="project-content flex-grow-1">
                                     <h3 class="h5 mb-2">@project.Title</h3>
                                     <p class="small text-muted mb-3">
-                                        @(!string.IsNullOrEmpty(project.Technologies) ? project.Technologies : "Technologies not specified")
+                                        @(!string.IsNullOrEmpty(project.Technologies) ? @Html.Raw(project.Technologies) : "Technologies not specified")
                                     </p>
                                 </div>
                                 <div class="px-3 pb-3">
