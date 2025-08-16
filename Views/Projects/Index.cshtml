@@ -30,7 +30,17 @@
                         <h5 class="card-title">@project.Title</h5>
                         <p class="card-text text-black">@Html.Raw(project.Technologies)</p>
                         <p class="card-text text-black">@Html.Raw(project.Description)</p>
-                        <a asp-action="ProjectPreview" asp-route-id="@project.Id" class="btn btn-info">View Details</a>
+                        <div class="mt-auto d-flex gap-2">
+                            <a asp-action="ProjectPreview" asp-route-id="@project.Id" class="btn btn-info btn-sm">View Details</a>
+
+                            <!-- ✅ Delete button (POST with anti-forgery + confirm) -->
+                            <form asp-action="DeleteProject" asp-route-id="@project.Id" method="post"
+                                  class="d-inline"
+                                  onsubmit="return confirm('Delete \"@project.Title\"? This cannot be undone.');">
+                                @Html.AntiForgeryToken()
+                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>

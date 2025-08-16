@@ -48,14 +48,13 @@ namespace MyPortfolio.Controllers
             if (!ModelState.IsValid)
                 return View(obj);
 
-            // Sanitize the two HTML fields (allow only basic formatting + lists)
             var sanitizer = new HtmlSanitizer();
             sanitizer.AllowedTags.Clear();
             sanitizer.AllowedTags.UnionWith(new[] { "p", "br", "ul", "ol", "li", "strong", "b", "em", "i", "u", "a" });
             sanitizer.AllowedAttributes.Clear();
             sanitizer.AllowedAttributes.UnionWith(new[] { "href", "target" });
 
-            obj.Description  = sanitizer.Sanitize(obj.Description ?? string.Empty);
+            obj.Description = sanitizer.Sanitize(obj.Description ?? string.Empty);
             obj.Technologies = sanitizer.Sanitize(obj.Technologies ?? string.Empty);
 
             if (screenShots != null && screenShots.Count > 0)
@@ -83,6 +82,8 @@ namespace MyPortfolio.Controllers
         }
 
 
+
+
         public async Task<IActionResult> GetScreenshot(int id)
         {
             var screenshot = await _db.Screenshots.FindAsync(id);
@@ -92,5 +93,31 @@ namespace MyPortfolio.Controllers
             }
             return File(screenshot.FileContent, screenshot.ContentType);
         }
+        
+        [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> DeleteProject(int id)
+    {
+        var project = await _db.Projects
+            .Include(p => p.ScreenShots)
+            .FirstOrDefaultAsync(p => p.Id == id);
+
+        if (project == null)
+        {
+            TempData["Error"] = "Project not found.";
+            return RedirectToAction(nameof(Index));
+        }
+
+        if (project.ScreenShots != null && project.ScreenShots.Count > 0)
+        {
+            _db.Screenshots.RemoveRange(project.ScreenShots);
+        }
+
+        _db.Projects.Remove(project);
+        await _db.SaveChangesAsync();
+
+        TempData["Success"] = "Project deleted successfully.";
+        return RedirectToAction(nameof(Index));
+    }
     }
 }
