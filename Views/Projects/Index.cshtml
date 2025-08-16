@@ -34,11 +34,13 @@
                             <a asp-action="ProjectPreview" asp-route-id="@project.Id" class="btn btn-info btn-sm">View Details</a>
 
                             <!-- ✅ Delete button (POST with anti-forgery + confirm) -->
-                            <form asp-action="DeleteProject" asp-route-id="@project.Id" method="post"
-                                  class="d-inline"
-                                  onsubmit="return confirm('Delete \"@project.Title\"? This cannot be undone.');">
+                            <form asp-action="DeleteProject" asp-route-id="@project.Id" method="post" class="d-inline">
                                 @Html.AntiForgeryToken()
-                                <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                <button type="submit"
+                                        class="btn btn-danger btn-sm"
+                                        onclick="return confirm('Delete &quot;@project.Title&quot;? This cannot be undone.');">
+                                    Delete
+                                </button>
                             </form>
                         </div>
                     </div>
