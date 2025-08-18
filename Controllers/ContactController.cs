@@ -28,8 +28,8 @@ public class ContactController : Controller
         try
         {
             var message = new MailMessage();
-            message.From = new MailAddress("scanthis.app@gmail.com"); // Sender
-            message.To.Add("idir.bylka@yahoo.co.uk"); // Receiver (you)
+            message.From = new MailAddress("scanthis.app@gmail.com");
+            message.To.Add("idir.bylka@yahoo.co.uk");
             message.Subject = $"New Contact Message from {model.Name}";
             message.Body = $"Name: {model.Name}\nEmail: {model.Email}\n\nMessage:\n{model.Message}";
             message.IsBodyHtml = false;
@@ -46,7 +46,6 @@ public class ContactController : Controller
         }
         catch (Exception ex)
         {
-            // Log the exception
             ModelState.AddModelError("", "Failed to send email. Please try again later.");
             return View("~/Views/Home/ContactMe.cshtml", model);
         }

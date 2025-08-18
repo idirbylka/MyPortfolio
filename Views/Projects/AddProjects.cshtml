@@ -51,7 +51,6 @@
 
 @section Scripts {
   <partial name="_ValidationScriptsPartial" />
-  <!-- TinyMCE from CDN -->
   <script src="https://cdn.jsdelivr.net/npm/tinymce@6.8.3/tinymce.min.js" referrerpolicy="origin"></script>
   <script>
     const tinyConfig = {
@@ -61,7 +60,6 @@
       branding: false,
       height: 260,
       convert_urls: false,
-      // keep the HTML simple + safe (we’ll also sanitize server side)
       valid_elements: 'p,br,ul,ol,li,strong/b,em/i,u,a[href|target=_blank]',
       content_style: 'body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Arial,sans-serif;line-height:1.5;} ul,ol{margin-left:1.25rem;}'
     };

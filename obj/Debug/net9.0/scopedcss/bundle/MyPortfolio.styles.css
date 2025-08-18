@@ -94,6 +94,12 @@ h1[b-kknu4vf9t9] {
     font-weight: bold;
 }
 
+.social-media[b-kknu4vf9t9] {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .available-for-hire[b-kknu4vf9t9] {
     color: #34d298;
     background-color: #34d2983a;

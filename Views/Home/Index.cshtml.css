@@ -8,6 +8,12 @@ h1 {
     font-weight: bold;
 }
 
+.social-media {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .available-for-hire {
     color: #34d298;
     background-color: #34d2983a;
@@ -163,7 +169,6 @@ h1 {
     .see-inside-btn { padding: 8px 14px; font-size: 13px; }
 }
 
-/* Utility refinements */
 .project-card h5,
 .project-card h3 {
     font-weight: 600;

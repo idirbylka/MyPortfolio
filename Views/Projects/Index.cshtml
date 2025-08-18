@@ -32,8 +32,6 @@
                         <p class="card-text text-black">@Html.Raw(project.Description)</p>
                         <div class="mt-auto d-flex gap-2">
                             <a asp-action="ProjectPreview" asp-route-id="@project.Id" class="btn btn-info btn-sm">View Details</a>
-
-                            <!-- ✅ Delete button (POST with anti-forgery + confirm) -->
                             <form asp-action="DeleteProject" asp-route-id="@project.Id" method="post" class="d-inline">
                                 @Html.AntiForgeryToken()
                                 <button type="submit"

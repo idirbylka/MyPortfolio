@@ -24,13 +24,11 @@ namespace MyPortfolio.Controllers
             return View(cv);
         }
 
-        // GET: /Cv/Upload
         public IActionResult Upload()
         {
             return View();
         }
 
-        // POST: /Cv/Upload
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Upload(IFormFile file)
@@ -65,7 +63,6 @@ namespace MyPortfolio.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // GET: /Cv/ViewPdf/{id}
         public async Task<IActionResult> ViewPdf(int id)
         {
             var cv = await _context.Cvs.FindAsync(id);
@@ -77,7 +74,6 @@ namespace MyPortfolio.Controllers
             return File(cv.FileContent, cv.ContentType);
         }
 
-        // GET: /Cv/Download/{id}
         public async Task<IActionResult> Download(int id)
         {
             var cv = await _context.Cvs.FindAsync(id);

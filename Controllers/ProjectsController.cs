@@ -108,7 +108,6 @@ namespace MyPortfolio.Controllers
             return RedirectToAction(nameof(Index));
         }
 
-        // If cascade delete isn't configured, this ensures children are removed.
         if (project.ScreenShots != null && project.ScreenShots.Count > 0)
         {
             _db.Screenshots.RemoveRange(project.ScreenShots);

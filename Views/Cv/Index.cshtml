@@ -44,7 +44,7 @@ else
 
   const MAX_DPR = 3;
   const DPR = Math.min(MAX_DPR, window.devicePixelRatio || 1);
-  const QUALITY_BOOST = 1.15;   // 🔧 applies to render pixels only
+  const QUALITY_BOOST = 1.15;
 
   function innerWidth(el){
     const cs = getComputedStyle(el);
@@ -54,18 +54,15 @@ else
   async function renderPdf(pdf) {
     host.innerHTML = "";
 
-    // clamp CSS width to fit container exactly (minus a tiny epsilon)
     const cssTargetWidth = Math.max(1, Math.floor(innerWidth(host) - 0.5));
 
     for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
       const page = await pdf.getPage(pageNum);
 
-      // CSS scale fits the page to the host width EXACTLY
       const unscaled = page.getViewport({ scale: 1 });
       const cssScale = cssTargetWidth / unscaled.width;
       const cssViewport = page.getViewport({ scale: cssScale });
 
-      // Canvas element sized in CSS pixels (fits container)
       const cssW = Math.round(cssViewport.width);
       const cssH = Math.round(cssViewport.height);
 
@@ -73,11 +70,11 @@ else
       canvas.style.display = 'block';
       canvas.style.margin  = '0 auto 16px';
       canvas.style.background = '#fff';
-      canvas.style.width  = cssW + 'px';   // ✅ exact CSS width
+      canvas.style.width  = cssW + 'px'; 
       canvas.style.height = cssH + 'px';
 
-      // Backing store in device pixels with quality boost
-      const renderScale = DPR * QUALITY_BOOST;               // ✅ boost only here
+ 
+      const renderScale = DPR * QUALITY_BOOST; 
       canvas.width  = Math.round(cssViewport.width  * renderScale);
       canvas.height = Math.round(cssViewport.height * renderScale);
 
@@ -85,8 +82,8 @@ else
 
       await page.render({
         canvasContext: ctx,
-        viewport: cssViewport,               // layout viewport (fits width)
-        transform: [renderScale, 0, 0, renderScale, 0, 0]  // hi-dpi pixels
+        viewport: cssViewport,  
+        transform: [renderScale, 0, 0, renderScale, 0, 0] 
       }).promise;
 
       host.appendChild(canvas);

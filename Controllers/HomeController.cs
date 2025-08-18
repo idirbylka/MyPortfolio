@@ -78,7 +78,7 @@ namespace MyPortfolio.Controllers
                     IsBodyHtml = false
                 };
                 message.To.Add(toEmail);
-                // Optional: add Reply-To so you can reply directly to the sender
+
                 if (!string.IsNullOrWhiteSpace(model.Email))
                     message.ReplyToList.Add(new MailAddress(model.Email, model.Name ?? model.Email));
 
