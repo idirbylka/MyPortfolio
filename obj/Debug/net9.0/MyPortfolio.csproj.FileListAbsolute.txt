@@ -839,5 +839,5 @@
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.dll
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.Css.dll
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/HtmlSanitizer.dll
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-rhx7r18l6s.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-rhx7r18l6s.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-jvfdr7f3jl.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-jvfdr7f3jl.gz

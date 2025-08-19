@@ -149,10 +149,20 @@ h1[b-kknu4vf9t9] {
 }
 
 .tech-stack-widget[b-kknu4vf9t9] {
-    background-color: #adaffa;
+    background-color: #79b315;
     border-radius: 20px;
     padding: 15px;
     box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+
+    p {
+        font-size: 1.1rem;
+        color: #fff;
+    }
+
+    h5[b-kknu4vf9t9] {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
 }
 
 .mission-statement[b-kknu4vf9t9] {
@@ -255,7 +265,6 @@ h1[b-kknu4vf9t9] {
     .see-inside-btn[b-kknu4vf9t9] { padding: 8px 14px; font-size: 13px; }
 }
 
-/* Utility refinements */
 .project-card h5[b-kknu4vf9t9],
 .project-card h3[b-kknu4vf9t9] {
     font-weight: 600;

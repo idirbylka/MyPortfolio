@@ -63,10 +63,20 @@ h1 {
 }
 
 .tech-stack-widget {
-    background-color: #adaffa;
+    background-color: #79b315;
     border-radius: 20px;
     padding: 15px;
     box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
+
+    p {
+        font-size: 1.1rem;
+        color: #fff;
+    }
+
+    h5 {
+        font-size: 1.3rem;
+        font-weight: bold;
+    }
 }
 
 .mission-statement {
