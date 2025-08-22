@@ -759,7 +759,6 @@
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/nezrqnk58p-muycvpuwrr.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/v0zgfp0y55-87fc7y1x7t.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/yfc7ypekbg-mlv21k5csn.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-91x45xkgqh.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/zh5axwy674-61n19gt1b8.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/b2ddg8hmia-fr7q2aak1r.gz
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/dxhqkn6asf-bqjiyaj88i.gz
@@ -839,5 +838,6 @@
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.dll
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.Css.dll
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/HtmlSanitizer.dll
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-jvfdr7f3jl.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-jvfdr7f3jl.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-9ahu4is4mk.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-fwyjalk21l.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-fwyjalk21l.gz
