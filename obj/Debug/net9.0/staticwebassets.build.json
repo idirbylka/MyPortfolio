@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mL27Om+YTD9+lL6k3FV9pPmM5gCL11AdXhUAXlu3xr4=",
+  "Hash": "E05RAWIK/kx4QCZM8oy0hO6H/elGb9yOZZqBeAXOi2E=",
   "Source": "MyPortfolio",
   "BasePath": "_content/MyPortfolio",
   "Mode": "Default",
@@ -3671,12 +3671,12 @@
       "OriginalItemSpec": "/Users/idir/test/MyPortfolio/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
     },
     {
-      "Identity": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-fwyjalk21l.gz",
+      "Identity": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-yxag5dlhb5.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/MyPortfolio",
-      "RelativePath": "MyPortfolio#[.{fingerprint=fwyjalk21l}]?.styles.css.gz",
+      "RelativePath": "MyPortfolio#[.{fingerprint=yxag5dlhb5}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -3685,8 +3685,8 @@
       "RelatedAsset": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "njflc4odgz",
-      "Integrity": "8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=",
+      "Fingerprint": "f3cm8gzxfy",
+      "Integrity": "u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css"
@@ -3881,12 +3881,12 @@
       "OriginalItemSpec": "/Users/idir/.nuget/packages/microsoft.aspnetcore.identity.ui/9.0.7/staticwebassets/V5/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
     },
     {
-      "Identity": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-fwyjalk21l.gz",
+      "Identity": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-yxag5dlhb5.gz",
       "SourceId": "MyPortfolio",
       "SourceType": "Computed",
       "ContentRoot": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/MyPortfolio",
-      "RelativePath": "MyPortfolio#[.{fingerprint=fwyjalk21l}]!.bundle.scp.css.gz",
+      "RelativePath": "MyPortfolio#[.{fingerprint=yxag5dlhb5}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -3895,8 +3895,8 @@
       "RelatedAsset": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "njflc4odgz",
-      "Integrity": "8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=",
+      "Fingerprint": "f3cm8gzxfy",
+      "Integrity": "u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css"
@@ -4000,8 +4000,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "fwyjalk21l",
-      "Integrity": "kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=",
+      "Fingerprint": "yxag5dlhb5",
+      "Integrity": "mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css"
@@ -4021,8 +4021,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "fwyjalk21l",
-      "Integrity": "kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=",
+      "Fingerprint": "yxag5dlhb5",
+      "Integrity": "mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css"
@@ -32958,12 +32958,12 @@
     },
     {
       "Route": "MyPortfolio.bundle.scp.css",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-fwyjalk21l.gz",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-yxag5dlhb5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000448229494"
+          "Quality": "0.000447427293"
         }
       ],
       "ResponseHeaders": [
@@ -32973,15 +32973,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "2234"
         },
         {
           "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33001,13 +33001,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
+          "Value": "W/\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
         }
       ]
     },
@@ -33022,7 +33022,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8594"
+          "Value": "8593"
         },
         {
           "Name": "Content-Type",
@@ -33030,11 +33030,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
+          "Value": "\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33044,13 +33044,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
         }
       ]
     },
     {
       "Route": "MyPortfolio.bundle.scp.css.gz",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-fwyjalk21l.gz",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-yxag5dlhb5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -33059,7 +33059,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "2234"
         },
         {
           "Name": "Content-Type",
@@ -33067,11 +33067,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33089,18 +33089,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE="
+          "Value": "sha256-u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0="
         }
       ]
     },
     {
-      "Route": "MyPortfolio.fwyjalk21l.bundle.scp.css",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-fwyjalk21l.gz",
+      "Route": "MyPortfolio.styles.css",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-yxag5dlhb5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000448229494"
+          "Quality": "0.000447427293"
         }
       ],
       "ResponseHeaders": [
@@ -33110,15 +33110,152 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "2234"
         },
         {
           "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
+        }
+      ]
+    },
+    {
+      "Route": "MyPortfolio.styles.css",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
+        }
+      ]
+    },
+    {
+      "Route": "MyPortfolio.styles.css.gz",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-yxag5dlhb5.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2234"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0="
+        }
+      ]
+    },
+    {
+      "Route": "MyPortfolio.yxag5dlhb5.bundle.scp.css",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-yxag5dlhb5.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000447427293"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2234"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33138,13 +33275,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
+          "Value": "W/\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwyjalk21l"
+          "Value": "yxag5dlhb5"
         },
         {
           "Name": "label",
@@ -33152,12 +33289,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
         }
       ]
     },
     {
-      "Route": "MyPortfolio.fwyjalk21l.bundle.scp.css",
+      "Route": "MyPortfolio.yxag5dlhb5.bundle.scp.css",
       "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -33167,7 +33304,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8594"
+          "Value": "8593"
         },
         {
           "Name": "Content-Type",
@@ -33175,11 +33312,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
+          "Value": "\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33189,7 +33326,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwyjalk21l"
+          "Value": "yxag5dlhb5"
         },
         {
           "Name": "label",
@@ -33197,13 +33334,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
         }
       ]
     },
     {
-      "Route": "MyPortfolio.fwyjalk21l.bundle.scp.css.gz",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-fwyjalk21l.gz",
+      "Route": "MyPortfolio.yxag5dlhb5.bundle.scp.css.gz",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-yxag5dlhb5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -33212,7 +33349,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "2234"
         },
         {
           "Name": "Content-Type",
@@ -33220,11 +33357,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33242,7 +33379,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwyjalk21l"
+          "Value": "yxag5dlhb5"
         },
         {
           "Name": "label",
@@ -33250,18 +33387,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE="
+          "Value": "sha256-u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0="
         }
       ]
     },
     {
-      "Route": "MyPortfolio.fwyjalk21l.styles.css",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-fwyjalk21l.gz",
+      "Route": "MyPortfolio.yxag5dlhb5.styles.css",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-yxag5dlhb5.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000448229494"
+          "Quality": "0.000447427293"
         }
       ],
       "ResponseHeaders": [
@@ -33271,15 +33408,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "2234"
         },
         {
           "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33299,13 +33436,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
+          "Value": "W/\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwyjalk21l"
+          "Value": "yxag5dlhb5"
         },
         {
           "Name": "label",
@@ -33313,12 +33450,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
         }
       ]
     },
     {
-      "Route": "MyPortfolio.fwyjalk21l.styles.css",
+      "Route": "MyPortfolio.yxag5dlhb5.styles.css",
       "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -33328,7 +33465,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8594"
+          "Value": "8593"
         },
         {
           "Name": "Content-Type",
@@ -33336,11 +33473,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
+          "Value": "\"mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33350,7 +33487,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwyjalk21l"
+          "Value": "yxag5dlhb5"
         },
         {
           "Name": "label",
@@ -33358,13 +33495,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
+          "Value": "sha256-mlsMXMHcOPuJGlspOTd2uCFMGRDKABrOMctdOkMjREg="
         }
       ]
     },
     {
-      "Route": "MyPortfolio.fwyjalk21l.styles.css.gz",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-fwyjalk21l.gz",
+      "Route": "MyPortfolio.yxag5dlhb5.styles.css.gz",
+      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-yxag5dlhb5.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -33373,7 +33510,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2230"
+          "Value": "2234"
         },
         {
           "Name": "Content-Type",
@@ -33381,11 +33518,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
+          "Value": "\"u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
+          "Value": "Fri, 22 Aug 2025 16:53:25 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -33403,7 +33540,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fwyjalk21l"
+          "Value": "yxag5dlhb5"
         },
         {
           "Name": "label",
@@ -33411,144 +33548,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE="
-        }
-      ]
-    },
-    {
-      "Route": "MyPortfolio.styles.css",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-fwyjalk21l.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000448229494"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2230"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
-        }
-      ]
-    },
-    {
-      "Route": "MyPortfolio.styles.css",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "8594"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-kUrDIwRfP0SQZWAGlTw6+u34Rsbk5qqTgzTSWmr6hP0="
-        }
-      ]
-    },
-    {
-      "Route": "MyPortfolio.styles.css.gz",
-      "AssetFile": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-fwyjalk21l.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2230"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 21 Aug 2025 10:16:42 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-8x1s+9iWpJwCQ8SCvn3qwzGTlg+OXl6q68U9ovmqldE="
+          "Value": "sha256-u57zeE4fw3VxkgXYpwpvo2XacsgiEePkNlYiN6x6Ha0="
         }
       ]
     }
