@@ -40,6 +40,16 @@ namespace MyPortfolio.Controllers
             return View();
         }
 
+        public async Task<IActionResult> ProjectPreview(int id)
+        {
+            var project = await _db.Projects.Include(p => p.ScreenShots).FirstOrDefaultAsync(p => p.Id == id);
+            if (project == null)
+            {
+                return NotFound();
+            }
+            return View(project);
+        }
+
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> SendMessage([Bind(Prefix = "ContactForm")] ContactFormModel model)

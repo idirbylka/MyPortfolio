@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css",
-      "PackagePath": "staticwebassets/MyPortfolio.yxag5dlhb5.bundle.scp.css"
+      "PackagePath": "staticwebassets/MyPortfolio.q6oj5vw7u5.bundle.scp.css"
     },
     {
       "Id": "/Users/idir/test/MyPortfolio/wwwroot/css/site.css",
@@ -17,12 +17,20 @@
       "PackagePath": "staticwebassets/images/computer-background.jpg"
     },
     {
+      "Id": "/Users/idir/test/MyPortfolio/wwwroot/images/cycling_photo.jpg",
+      "PackagePath": "staticwebassets/images/cycling_photo.jpg"
+    },
+    {
       "Id": "/Users/idir/test/MyPortfolio/wwwroot/images/hands-computer.jpg",
       "PackagePath": "staticwebassets/images/hands-computer.jpg"
     },
     {
       "Id": "/Users/idir/test/MyPortfolio/wwwroot/images/homepage-picture.png",
       "PackagePath": "staticwebassets/images/homepage-picture.png"
+    },
+    {
+      "Id": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.jpg",
+      "PackagePath": "staticwebassets/images/idir_cv_photo.jpg"
     },
     {
       "Id": "/Users/idir/test/MyPortfolio/wwwroot/images/photo-id.jpg",

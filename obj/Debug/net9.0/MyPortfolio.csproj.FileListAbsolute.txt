@@ -693,7 +693,6 @@
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/AboutMe.cshtml.rz.scp.css
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/Index.cshtml.rz.scp.css
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/MyExperience/Index.cshtml.rz.scp.css
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Projects/ProjectPreview.cshtml.rz.scp.css
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/bundle/MyPortfolio.styles.css
 /Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/projectbundle/MyPortfolio.bundle.scp.css
@@ -838,6 +837,7 @@
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.dll
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/AngleSharp.Css.dll
 /Users/idir/test/MyPortfolio/bin/Debug/net9.0/HtmlSanitizer.dll
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-9ahu4is4mk.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-yxag5dlhb5.gz
-/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-yxag5dlhb5.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/scopedcss/Views/Home/ProjectPreview.cshtml.rz.scp.css
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/dhonh3mkng-s7og5589m7.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/wuz8f7d9rl-q6oj5vw7u5.gz
+/Users/idir/test/MyPortfolio/obj/Debug/net9.0/compressed/z7gkylbl68-q6oj5vw7u5.gz

@@ -9,7 +9,7 @@
     <div class="row mt-5 align-items-start">
         <div class="col-12 col-lg-5 order-1 order-lg-1">
             <div class="text">
-                <p class="available-for-hire d-inline-block">• AVAILABLE FOR HIRE</p>
+                <p class="available-for-hire d-inline-block">AVAILABLE FOR HIRE</p>
                 <h1 class="fw-bold hero-title">Hi, I’m a Software Developer</h1>
                 <p class="intro-text">
                     Versatile and hands-on with experience in developing modern web applications both on the frontend and backend. Solid knowledge of object-oriented programming with C# and Python, combined with confident use of .NET environments, Vue.js, as well as common web and database technologies.
@@ -66,7 +66,7 @@
     <div class="mission-statement">
         <div class="row">
             <div class="col-12">
-                <p class="fw-bold fs-4">I’m passionate about building meaningful digital tools - whether it’s helping a business streamline its workflow or creating intuitive user experiences. My goal is to contribute to projects that make life easier, more productive, or more connected.</p>
+                <p class="fw-bold">I’m passionate about building meaningful digital tools - whether it’s helping a business streamline its workflow or creating intuitive user experiences. My goal is to contribute to projects that make life easier, more productive, or more connected.</p>
             </div>
         </div>
 
@@ -86,7 +86,7 @@
                     <div class="col-10 col-md-11">
                         <h4 style="color: #848386;">Vogel Media GmbH</h4>
                         <p style="color: #4c4b4d;">2024 - Present</p>
-                        <p class="fs-4">I’m currently working at <a style="color: #ac6143;" href="https://www.vogel.media/startseite" class="fw-bolder">Vogel Media GmbH</a> as a Software Developer, where I contribute to various projects and collaborate with a talented team.</p>
+                        <p>I’m currently working at <a style="color: #ac6143;" href="https://www.vogel.media/startseite" class="fw-bolder">Vogel Media GmbH</a> as a Software Developer, where I contribute to various projects and collaborate with a talented team.</p>
                         <a asp-controller="MyExperience" asp-action="Index" class="contact btn float-end">More about my experience</a>
                     </div>
 
@@ -110,7 +110,7 @@
                             <div class="project-card h-100 d-flex flex-column">
                                 <img src="@(
                                     project.ScreenShots != null && project.ScreenShots.Any()
-                                        ? Url.Action("GetScreenshot", "Projects", new { id = project.ScreenShots.First().Id })
+                                        ? Url.Action("GetScreenshot", "Proj_ects", new { id = project.ScreenShots.First().Id })
                                         : "/images/placeholder-project.jpg"
                                 )" alt="@project.Title" class="project-image" />
                                 <div class="project-content flex-grow-1">
@@ -120,7 +120,7 @@
                                     </p>
                                 </div>
                                 <div class="px-3 pb-3">
-                                    <a href="@Url.Action("ProjectPreview", "Projects", new { id = project.Id })" class="see-inside-btn w-100 text-center">See Details</a>
+                                    <a href="@Url.Action("ProjectPreview", "Home", new { id = project.Id })" class="see-inside-btn w-100 text-center">See Details</a>
                                 </div>
                             </div>
                         </div>

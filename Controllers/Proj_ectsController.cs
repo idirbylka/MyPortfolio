@@ -11,12 +11,12 @@ using Ganss.Xss;
 
 namespace MyPortfolio.Controllers
 {
-    public class ProjectsController : Controller
+    public class Proj_ectsController : Controller
     {
 
         private readonly ApplicationDbContext _db;
 
-        public ProjectsController(ApplicationDbContext db)
+        public Proj_ectsController(ApplicationDbContext db)
         {
             _db = db;
         }
@@ -26,15 +26,15 @@ namespace MyPortfolio.Controllers
             return View(projects);
         }
 
-        public async Task<IActionResult> ProjectPreview(int id)
-        {
-            var project = await _db.Projects.Include(p => p.ScreenShots).FirstOrDefaultAsync(p => p.Id == id);
-            if (project == null)
-            {
-                return NotFound();
-            }
-            return View(project);
-        }
+        // public async Task<IActionResult> ProjectPreview(int id)
+        // {
+        //     var project = await _db.Projects.Include(p => p.ScreenShots).FirstOrDefaultAsync(p => p.Id == id);
+        //     if (project == null)
+        //     {
+        //         return NotFound();
+        //     }
+        //     return View(project);
+        // }
 
         public IActionResult AddProjects()
         {

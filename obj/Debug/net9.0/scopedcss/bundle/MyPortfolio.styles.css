@@ -103,7 +103,7 @@ h1[b-kknu4vf9t9] {
 .available-for-hire[b-kknu4vf9t9] {
     color: #34d298;
     background-color: #34d2983a;
-    font-size: 1rem;
+    font-size: 1.3rem;
     border-radius: 20px;
     text-align: center;
     padding: 5px 10px;
@@ -111,10 +111,9 @@ h1[b-kknu4vf9t9] {
 }
 
 .intro-text[b-kknu4vf9t9] {
-    font-size: 1.2rem;
-    margin-top: 70px;
+    margin-top: 20px;
     color: #848386;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 
 .computer-background-widget[b-kknu4vf9t9] {
@@ -137,7 +136,7 @@ h1[b-kknu4vf9t9] {
 }
 
 .photo-id[b-kknu4vf9t9] {
-    background-image: url('/images/photo-id.jpg');
+    background-image: url('/images/idir_cv_photo.jpg');
     background-position: center;
     background-size: cover;
     height: 340px;
@@ -174,7 +173,6 @@ h1[b-kknu4vf9t9] {
     box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
 
     p {
-        font-size: 1.2rem;
         color: #fff;
     }
 }
@@ -187,7 +185,6 @@ h1[b-kknu4vf9t9] {
     box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
 
     p {
-        font-size: 1.2rem;
         color: #333;
     }
 }
@@ -282,23 +279,23 @@ h1[b-kknu4vf9t9] {
 }
 
 
+/* _content/MyPortfolio/Views/Home/ProjectPreview.cshtml.rz.scp.css */
+.screenshotCarousel[b-es5nwe5i6u] {
+  position: relative;
+  width: 100%;
+  border-radius: 20%;
+}
+
+.carousel-item img[b-es5nwe5i6u] {
+  width: 100%;
+  max-height: 516px;
+}
 /* _content/MyPortfolio/Views/MyExperience/Index.cshtml.rz.scp.css */
 .myExperience[b-0rxagc241m] {
     margin-top: 150px;
     background-color: white;
     padding: 30px;
     border-radius: 20px;
-}
-/* _content/MyPortfolio/Views/Projects/ProjectPreview.cshtml.rz.scp.css */
-.screenshotCarousel[b-krmybyea7l] {
-  position: relative;
-  width: 100%;
-  border-radius: 20%;
-}
-
-.carousel-item img[b-krmybyea7l] {
-  width: 100%;
-  max-height: 516px;
 }
 /* _content/MyPortfolio/Views/Shared/_Layout.cshtml.rz.scp.css */
 /* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification

@@ -17,7 +17,7 @@
             @foreach (var (screenshot, index) in Model.ScreenShots.Select((value, i) => (value, i)))
             {
               <div class="carousel-item @(index == 0 ? "active" : "")">
-                <img src="@Url.Action("GetScreenshot", "Projects", new { id = screenshot.Id })" class="d-block w-100 rounded" alt="Screenshot @(index + 1)">
+                <img src="@Url.Action("GetScreenshot", "Proj_ects", new { id = screenshot.Id })" class="d-block w-100 rounded" alt="Screenshot @(index + 1)">
               </div>
             }
           </div>
