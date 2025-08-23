@@ -68,7 +68,6 @@ h1[b-kknu4vf9t9] {
     box-shadow: 0 0 20px rgb(0 0 0 / 0.05);
 
     p {
-        font-size: 1.1rem;
         color: #fff;
     }
 
@@ -152,7 +151,7 @@ h1[b-kknu4vf9t9] {
     .homepage-starter[b-kknu4vf9t9] { margin-top: 120px; }
     .computer-background-widget[b-kknu4vf9t9],
     .photo-id[b-kknu4vf9t9] { height: 300px; }
-    .intro-text[b-kknu4vf9t9] { margin-top: 30px; font-size: 1.05rem; }
+    .intro-text[b-kknu4vf9t9] { margin-top: 30px; }
     .mission-statement[b-kknu4vf9t9] { margin-top: 80px; }
 }
 
@@ -162,15 +161,15 @@ h1[b-kknu4vf9t9] {
     .photo-id[b-kknu4vf9t9] { height: 500px; }
     .tech-stack-widget[b-kknu4vf9t9] { padding: 12px; }
     .projects-container h2[b-kknu4vf9t9] { font-size: 1.9rem; }
+    .intro-text[b-kknu4vf9t9] { font-size: 1.2rem; }
 }
 
 @media (max-width: 576px) {
     .homepage-starter[b-kknu4vf9t9] { margin-top: 90px; }
     .hero-title[b-kknu4vf9t9] { font-size: 1.9rem; }
-    .intro-text[b-kknu4vf9t9] { font-size: 0.95rem; }
-    .mission-statement p[b-kknu4vf9t9] { font-size: 1rem; }
+    /* .intro-text { font-size: 1.2rem; } */
+    .mission-statement p[b-kknu4vf9t9] { font-size: 1.2rem; }
     .project-card[b-kknu4vf9t9] { border-radius: 18px; }
-    .project-image[b-kknu4vf9t9] { aspect-ratio: 4 / 3; }
     .contact-form[b-kknu4vf9t9] { padding: 22px; }
     .contact-form h2[b-kknu4vf9t9] { font-size: 1.6rem; }
     .see-inside-btn[b-kknu4vf9t9] { padding: 8px 14px; font-size: 13px; }
