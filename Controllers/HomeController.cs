@@ -13,16 +13,20 @@ namespace MyPortfolio.Controllers
 {
     public class HomeController : Controller
     {
+
+        // Handles home, about, Projects preview, and contact form submissions
         private readonly ILogger<HomeController> _logger;
         private readonly ApplicationDbContext _db;
 
+        
         public HomeController(ILogger<HomeController> logger, ApplicationDbContext db)
         {
             _logger = logger;
-            _db = db; 
+            _db = db;
         }
 
-        
+
+        // Displays home, Projects preview, and contact form submissions
 
         public async Task<IActionResult> Index()
         {
@@ -35,11 +39,14 @@ namespace MyPortfolio.Controllers
             };
             return View(vm);
         }
+
+        // Displays About Me section
         public IActionResult AboutMe()
         {
             return View();
         }
 
+        // Displays Project Preview section
         public async Task<IActionResult> ProjectPreview(int id)
         {
             var project = await _db.Projects.Include(p => p.ScreenShots).FirstOrDefaultAsync(p => p.Id == id);
@@ -49,6 +56,8 @@ namespace MyPortfolio.Controllers
             }
             return View(project);
         }
+
+        // Displays and Handles contact form submissions
 
         [HttpPost]
         [ValidateAntiForgeryToken]
@@ -61,14 +70,12 @@ namespace MyPortfolio.Controllers
                 return View("Index", vmInvalid);
             }
 
-            // Read SMTP settings from environment (Render dashboard -> Environment)
             var smtpUser = Environment.GetEnvironmentVariable("SMTP_USER");
             var smtpPass = Environment.GetEnvironmentVariable("SMTP_PASS");
             var smtpHost = Environment.GetEnvironmentVariable("SMTP_HOST") ?? "smtp.gmail.com";
             var smtpPort = int.TryParse(Environment.GetEnvironmentVariable("SMTP_PORT"), out var port) ? port : 587;
             var toEmail  = Environment.GetEnvironmentVariable("CONTACT_TO") ?? "idir.bylka@yahoo.co.uk";
 
-            // Guard: make sure required env vars exist in Render
             if (string.IsNullOrWhiteSpace(smtpUser) || string.IsNullOrWhiteSpace(smtpPass))
             {
                 ModelState.AddModelError("", "Email service is not configured. Please try again later.");

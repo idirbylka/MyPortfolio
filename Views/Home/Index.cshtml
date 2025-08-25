@@ -62,74 +62,74 @@
             </div>
         </div>
     </div>
-</div>
-    <div class="mission-statement">
-        <div class="row">
-            <div class="col-12">
-                <p class="fw-bold">I’m passionate about building meaningful digital tools - whether it’s helping a business streamline its workflow or creating intuitive user experiences. My goal is to contribute to projects that make life easier, more productive, or more connected.</p>
-            </div>
-        </div>
-
     </div>
-
-    <div class="current-work-widget">
-        <div class="row mt-3">
-            <div class="current-work">
-                <h2 class="fw-bold mb-4">Where I currently work</h2>
-                <div class="row">
-                    <div class="col-2 col-md-1">
-                        <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="#ac6143" class="bi bi-briefcase-fill" viewBox="0 0 16 16">
-                            <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5"/>
-                            <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85z"/>
-                        </svg>
-                    </div>
-                    <div class="col-10 col-md-11">
-                        <h4 style="color: #848386;">Vogel Media GmbH</h4>
-                        <p style="color: #4c4b4d;">2024 - Present</p>
-                        <p>I’m currently working at <a style="color: #ac6143;" href="https://www.vogel.media/startseite" class="fw-bolder">Vogel Media GmbH</a> as a Software Developer, where I contribute to various projects and collaborate with a talented team.</p>
-                        <a asp-controller="MyExperience" asp-action="Index" class="contact btn float-end">More about my experience</a>
-                    </div>
-
+        <div class="mission-statement">
+            <div class="row">
+                <div class="col-12">
+                    <p class="fw-bold">I’m passionate about building meaningful digital tools - whether it’s helping a business streamline its workflow or creating intuitive user experiences. My goal is to contribute to projects that make life easier, more productive, or more connected.</p>
                 </div>
             </div>
 
         </div>
-    </div>
 
-   <div class="projects-container">
-    <div class="container px-3 px-md-4">
-        <div class="mb-4">
-                <h2 class="mb-0 fw-bold lh-sm">projects i worked on</h2>
+        <div class="current-work-widget">
+            <div class="row mt-3">
+                <div class="current-work">
+                    <h2 class="fw-bold mb-4">Where I currently work</h2>
+                    <div class="row">
+                        <div class="col-2 col-md-1">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" fill="#ac6143" class="bi bi-briefcase-fill" viewBox="0 0 16 16">
+                                <path d="M6.5 1A1.5 1.5 0 0 0 5 2.5V3H1.5A1.5 1.5 0 0 0 0 4.5v1.384l7.614 2.03a1.5 1.5 0 0 0 .772 0L16 5.884V4.5A1.5 1.5 0 0 0 14.5 3H11v-.5A1.5 1.5 0 0 0 9.5 1zm0 1h3a.5.5 0 0 1 .5.5V3H6v-.5a.5.5 0 0 1 .5-.5"/>
+                                <path d="M0 12.5A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5V6.85L8.129 8.947a.5.5 0 0 1-.258 0L0 6.85z"/>
+                            </svg>
+                        </div>
+                        <div class="col-10 col-md-11">
+                            <h4 style="color: #848386;">Vogel Media GmbH</h4>
+                            <p style="color: #4c4b4d;">2024 - Present</p>
+                            <p>I’m currently working at Vogel Media GmbH as a Software Developer, where I contribute to various projects and collaborate with a talented team.</p>
+                            <a asp-controller="MyExperience" asp-action="Index" class="contact btn float-end">More about my experience</a>
+                        </div>
+
+                    </div>
+                </div>
+
+            </div>
         </div>
-        <div class="row">
-            <div class="col-12">
-                <div class="row g-4 row-cols-1 row-cols-sm-2 row-cols-lg-3">
-                    @foreach (var project in Model.Projects)
-                    {
-                        <div class="col">
-                            <div class="project-card h-100 d-flex flex-column">
-                                <img src="@(
-                                    project.ScreenShots != null && project.ScreenShots.Any()
-                                        ? Url.Action("GetScreenshot", "Proj_ects", new { id = project.ScreenShots.First().Id })
-                                        : "/images/placeholder-project.jpg"
-                                )" alt="@project.Title" class="project-image" />
-                                <div class="project-content flex-grow-1">
-                                    <h3 class="h5 mb-2">@project.Title</h3>
-                                    <p class="small text-muted mb-3">
-                                        @(!string.IsNullOrEmpty(project.Technologies) ? @Html.Raw(project.Technologies) : "Technologies not specified")
-                                    </p>
-                                </div>
-                                <div class="px-3 pb-3">
-                                    <a href="@Url.Action("ProjectPreview", "Home", new { id = project.Id })" class="see-inside-btn w-100 text-center">See Details</a>
+
+    <div class="projects-container">
+        <div class="container px-3 px-md-4">
+            <div class="mb-4">
+                    <h2 class="mb-0 fw-bold lh-sm">projects i worked on</h2>
+            </div>
+            <div class="row">
+                <div class="col-12">
+                    <div class="row g-4 row-cols-1 row-cols-sm-2 row-cols-lg-3">
+                        @foreach (var project in Model.Projects)
+                        {
+                            <div class="col">
+                                <div class="project-card h-100 d-flex flex-column">
+                                    <img src="@(
+                                        project.ScreenShots != null && project.ScreenShots.Any()
+                                            ? Url.Action("GetScreenshot", "Proj_ects", new { id = project.ScreenShots.First().Id })
+                                            : "/images/placeholder-project.jpg"
+                                    )" alt="@project.Title" class="project-image" />
+                                    <div class="project-content flex-grow-1">
+                                        <h3 class="h5 mb-2">@project.Title</h3>
+                                        <p class="small text-muted mb-3">
+                                            @(!string.IsNullOrEmpty(project.Technologies) ? @Html.Raw(project.Technologies) : "Technologies not specified")
+                                        </p>
+                                    </div>
+                                    <div class="px-3 pb-3">
+                                        <a href="@Url.Action("ProjectPreview", "Home", new { id = project.Id })" class="see-inside-btn w-100 text-center">See Details</a>
+                                    </div>
                                 </div>
                             </div>
-                        </div>
-                    }
+                        }
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
 
     <div class="contact-form">
         <h2 class="mt-5 mb-4 fw-bold" id="contact">Let's Connect - Learn More About My Expertise and Contributions</h2>

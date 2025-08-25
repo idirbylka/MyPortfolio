@@ -9,6 +9,8 @@ using System.IO;
 
 namespace MyPortfolio.Controllers
 {
+
+    /// Handling CV operations
     public class CvController : Controller
     {
         private readonly ApplicationDbContext _context;
@@ -18,17 +20,20 @@ namespace MyPortfolio.Controllers
             _context = context;
         }
 
+        // Cv view With the most recent upload
         public async Task<IActionResult> Index()
         {
             var cv = await _context.Cvs.OrderByDescending(c => c.UploadedAt).FirstOrDefaultAsync();
             return View(cv);
         }
 
+        /// Cv Upload view
         public IActionResult Upload()
         {
             return View();
         }
 
+        /// Cv Upload Post
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Upload(IFormFile file)
@@ -63,6 +68,8 @@ namespace MyPortfolio.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        // Displays Cv in PDF format in browser
+
         public async Task<IActionResult> ViewPdf(int id)
         {
             var cv = await _context.Cvs.FindAsync(id);
@@ -74,6 +81,7 @@ namespace MyPortfolio.Controllers
             return File(cv.FileContent, cv.ContentType);
         }
 
+        /// Cv Download
         public async Task<IActionResult> Download(int id)
         {
             var cv = await _context.Cvs.FindAsync(id);

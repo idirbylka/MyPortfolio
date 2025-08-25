@@ -16,10 +16,14 @@ namespace MyPortfolio.Controllers
 
         private readonly ApplicationDbContext _db;
 
+        // Handles project-related actions
+
         public Proj_ectsController(ApplicationDbContext db)
         {
             _db = db;
         }
+
+        // Displays all projects
         public async Task<IActionResult> Index()
         {
             List<Project> projects = await _db.Projects.Include(p => p.ScreenShots).ToListAsync();
@@ -36,11 +40,14 @@ namespace MyPortfolio.Controllers
         //     return View(project);
         // }
 
+
+        // Displays the Add Project form
         public IActionResult AddProjects()
         {
             return View();
         }
 
+        // Handles the form submission for adding a new project
         [HttpPost]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> AddProjects(Project obj, List<IFormFile> screenShots)
@@ -82,8 +89,7 @@ namespace MyPortfolio.Controllers
         }
 
 
-
-
+        /// Displays the details of a specific project
         public async Task<IActionResult> GetScreenshot(int id)
         {
             var screenshot = await _db.Screenshots.FindAsync(id);
@@ -93,31 +99,32 @@ namespace MyPortfolio.Controllers
             }
             return File(screenshot.FileContent, screenshot.ContentType);
         }
-        
-        [HttpPost]
-    [ValidateAntiForgeryToken]
-    public async Task<IActionResult> DeleteProject(int id)
-    {
-        var project = await _db.Projects
-            .Include(p => p.ScreenShots)
-            .FirstOrDefaultAsync(p => p.Id == id);
 
-        if (project == null)
+        // Handles the deletion of  a project
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteProject(int id)
         {
-            TempData["Error"] = "Project not found.";
+            var project = await _db.Projects
+                .Include(p => p.ScreenShots)
+                .FirstOrDefaultAsync(p => p.Id == id);
+
+            if (project == null)
+            {
+                TempData["Error"] = "Project not found.";
+                return RedirectToAction(nameof(Index));
+            }
+
+            if (project.ScreenShots != null && project.ScreenShots.Count > 0)
+            {
+                _db.Screenshots.RemoveRange(project.ScreenShots);
+            }
+
+            _db.Projects.Remove(project);
+            await _db.SaveChangesAsync();
+
+            TempData["Success"] = "Project deleted successfully.";
             return RedirectToAction(nameof(Index));
         }
-
-        if (project.ScreenShots != null && project.ScreenShots.Count > 0)
-        {
-            _db.Screenshots.RemoveRange(project.ScreenShots);
-        }
-
-        _db.Projects.Remove(project);
-        await _db.SaveChangesAsync();
-
-        TempData["Success"] = "Project deleted successfully.";
-        return RedirectToAction(nameof(Index));
-    }
     }
 }
