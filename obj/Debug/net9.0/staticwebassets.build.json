@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "BXqiZnrOwkLtzjXOemRLxbezLoQFaonD411Ok0msGtY=",
+  "Hash": "wBBu5WgmJpe1iYcYOTOdXqbW8z45MkesC/IxmUwl8G0=",
   "Source": "MyPortfolio",
   "BasePath": "_content/MyPortfolio",
   "Mode": "Default",
@@ -4154,12 +4154,12 @@
       "OriginalItemSpec": "wwwroot/images/homepage-picture.png"
     },
     {
-      "Identity": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.jpg",
+      "Identity": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.png",
       "SourceId": "MyPortfolio",
       "SourceType": "Discovered",
       "ContentRoot": "/Users/idir/test/MyPortfolio/wwwroot/",
       "BasePath": "_content/MyPortfolio",
-      "RelativePath": "images/idir_cv_photo#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/idir_cv_photo#[.{fingerprint}]?.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -4168,11 +4168,11 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "92msx61ttd",
-      "Integrity": "sUdf2sgZcO9gvNK40+HDWSqfO1qRP5f0tarLRyGHrbY=",
+      "Fingerprint": "uuoywforqm",
+      "Integrity": "Vq5oVpHqdhMSkYSrbp9SI7e+lWRBEHAWuxBPkQdcb4g=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot/images/idir_cv_photo.jpg"
+      "OriginalItemSpec": "wwwroot/images/idir_cv_photo.png"
     },
     {
       "Identity": "/Users/idir/test/MyPortfolio/wwwroot/images/photo-id.jpg",
@@ -14955,8 +14955,8 @@
       ]
     },
     {
-      "Route": "images/idir_cv_photo.92msx61ttd.jpg",
-      "AssetFile": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.jpg",
+      "Route": "images/idir_cv_photo.png",
+      "AssetFile": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -14965,64 +14965,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1568073"
+          "Value": "1812745"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/jpeg"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"sUdf2sgZcO9gvNK40+HDWSqfO1qRP5f0tarLRyGHrbY=\""
+          "Value": "\"Vq5oVpHqdhMSkYSrbp9SI7e+lWRBEHAWuxBPkQdcb4g=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sat, 23 Aug 2025 10:53:23 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "92msx61ttd"
-        },
-        {
-          "Name": "label",
-          "Value": "images/idir_cv_photo.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-sUdf2sgZcO9gvNK40+HDWSqfO1qRP5f0tarLRyGHrbY="
-        }
-      ]
-    },
-    {
-      "Route": "images/idir_cv_photo.jpg",
-      "AssetFile": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1568073"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"sUdf2sgZcO9gvNK40+HDWSqfO1qRP5f0tarLRyGHrbY=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sat, 23 Aug 2025 10:53:23 GMT"
+          "Value": "Tue, 17 Mar 2026 09:26:12 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -15032,7 +14987,52 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-sUdf2sgZcO9gvNK40+HDWSqfO1qRP5f0tarLRyGHrbY="
+          "Value": "sha256-Vq5oVpHqdhMSkYSrbp9SI7e+lWRBEHAWuxBPkQdcb4g="
+        }
+      ]
+    },
+    {
+      "Route": "images/idir_cv_photo.uuoywforqm.png",
+      "AssetFile": "/Users/idir/test/MyPortfolio/wwwroot/images/idir_cv_photo.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1812745"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Vq5oVpHqdhMSkYSrbp9SI7e+lWRBEHAWuxBPkQdcb4g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 17 Mar 2026 09:26:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uuoywforqm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/idir_cv_photo.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Vq5oVpHqdhMSkYSrbp9SI7e+lWRBEHAWuxBPkQdcb4g="
         }
       ]
     },
